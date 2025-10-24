@@ -94,7 +94,7 @@ Please follow these steps exactly:
 
 This model requires specific prompt formats to understand your intent correctly. Please refer to the following examples to structure your queries.
 
-- [prompt formats]('./dataset_generation/generation_pipeline/train_prompt.json'): `'./dataset_generation/generation_pipeline/train_prompt.json'`
+- [prompt formats](./dataset_generation/generation_pipeline/train_prompt.json): `'./dataset_generation/generation_pipeline/train_prompt.json'`
 
 -----
 
