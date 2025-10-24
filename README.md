@@ -2,17 +2,6 @@
 
 This repository contains the datasets, evaluation scripts, and experimental data for the paper: **"LMUCS: A Lightweight LLM-Driven UAV Control System with Multimodal Perception for an Autonomous Material Search and Localization"**.
 
-LMUCS is a lightweight, multimodal perception and control system for unmanned aerial vehicles (UAVs). It is designed to address the significant challenge of integrating large language models (LLMs) and advanced visual perception on resource-constrained drone platforms to achieve fluid natural language interaction and real-time environmental awareness.
-
-The system's core is a compact LLM, efficiently fine-tuned using Prompt Engineering and Low-Rank Adaptation (LoRA) techniques to accurately parse natural language commands. We also employ quantization to make running the LLM on airborne devices possible. For visual perception, LMUCS integrates a fine-tuned YOLOv11 model for object detection and the MiDaS monocular depth estimation algorithm to acquire spatial distance information.
-
-This repository primarily contains the data and evaluation scripts related to the LLM fine-tuning and performance benchmarks presented in the paper.
-
-## Key Contributions
-1.  **Lightweighting Methodology:** We validated an efficiency-first model lightweighting approach. By combining LoRA  and Q4 quantization , our fine-tuned compact LLM achieves high instruction parsing accuracy (over 90%) while reducing inference latency, demonstrating the potential for real-time command execution on edge devices.
-2.  **Lightweight Perception:** We designed a lightweight perception solution integrating a fine-tuned YOLOv11 for robust object detection and MiDaS for monocular depth estimation.
-3.  **Novel Dataset Generation:** We designed and executed an innovative two-stage prompt engineering data generation pipeline to build and release the first scalable, open-source dataset for drone control, covering flight, programmatic, and search tasks. This dataset, containing tens of thousands of high-quality "natural language-control command" pairs, alleviates the scarcity of domain-specific data.
-
 ## Repository Structure
 
 This repository contains the data and scripts used to produce the evaluation results in our paper.
