@@ -1,0 +1,2010 @@
+{"word": "请帮我找一下最近的超市。", "type": "A", "language": "zh"}
+{"word": "哪里有评分高的意大利餐厅？", "type": "A", "language": "zh"}
+{"word": "我想知道附近有没有电影院。", "type": "A", "language": "zh"}
+{"word": "帮我搜索一下周边的加油站位置。", "type": "A", "language": "zh"}
+{"word": "请查找一下最近的图书馆。", "type": "A", "language": "zh"}
+{"word": "请将无人机的摄像头对准北方。", "type": "B", "language": "zh"}
+{"word": "把室内温度调到22度。", "type": "B", "language": "zh"}
+{"word": "启动客厅的电视。", "type": "B", "language": "zh"}
+{"word": "让无人机在空中悬停。", "type": "B", "language": "zh"}
+{"word": "关闭所有的窗帘。", "type": "B", "language": "zh"}
+{"word": "你觉得明天天气会好吗？", "type": "D", "language": "zh"}
+{"word": "告诉我一些关于火星的知识。", "type": "D", "language": "zh"}
+{"word": "为什么天空是蓝色的？", "type": "D", "language": "zh"}
+{"word": "解释一下相对论的基本概念。", "type": "D", "language": "zh"}
+{"word": "请给我讲一个励志的故事。", "type": "D", "language": "zh"}
+{"word": "找到最近的公园并标记路线。", "type": "A", "language": "zh"}
+{"word": "在无人机视野中寻找一个红色的汽车。", "type": "A", "language": "zh"}
+{"word": "找出厨房里放刀具的抽屉。", "type": "A", "language": "zh"}
+{"word": "请定位距离我最近的Wi-Fi热点。", "type": "A", "language": "zh"}
+{"word": "搜索市中心附近是否有开放的宠物商店。", "type": "A", "language": "zh"}
+{"word": "调整无人机的高度到30米。", "type": "B", "language": "zh"}
+{"word": "将卧室的灯光亮度调至50%。", "type": "B", "language": "zh"}
+{"word": "切换无人机的飞行模式到“避障模式”。", "type": "B", "language": "zh"}
+{"word": "打开电视，并调到体育频道。", "type": "B", "language": "zh"}
+{"word": "关闭书房里的空调。", "type": "B", "language": "zh"}
+{"word": "请问今天晚上会下雨吗？", "type": "D", "language": "zh"}
+{"word": "解释一下光合作用的原理。", "type": "D", "language": "zh"}
+{"word": "推荐一本适合孩子阅读的冒险小说。", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能移民到其他星球？", "type": "D", "language": "zh"}
+{"word": "给我一些在紧张时如何放松心情的建议。", "type": "D", "language": "zh"}
+{"word": "Please help me find the nearest supermarket.", "type": "A", "language": "en"}
+{"word": "Where can I find a highly rated Italian restaurant?", "type": "A", "language": "en"}
+{"word": "I want to know if there are any cinemas nearby.", "type": "A", "language": "en"}
+{"word": "Search for nearby gas stations.", "type": "A", "language": "en"}
+{"word": "Please locate the nearest library.", "type": "A", "language": "en"}
+{"word": "Point the drone's camera north.", "type": "B", "language": "en"}
+{"word": "Set the indoor temperature to 22 degrees.", "type": "B", "language": "en"}
+{"word": "Turn on the living room TV.", "type": "B", "language": "en"}
+{"word": "Make the drone hover in the air.", "type": "B", "language": "en"}
+{"word": "Close all the curtains.", "type": "B", "language": "en"}
+{"word": "Do you think the weather will be good tomorrow?", "type": "D", "language": "en"}
+{"word": "Tell me some facts about Mars.", "type": "D", "language": "en"}
+{"word": "Why is the sky blue?", "type": "D", "language": "en"}
+{"word": "Explain the basic concept of relativity.", "type": "D", "language": "en"}
+{"word": "Tell me an inspiring story.", "type": "D", "language": "en"}
+{"word": "Find the nearest park and mark the route.", "type": "A", "language": "en"}
+{"word": "Look for a red car within the drone's field of view.", "type": "A", "language": "en"}
+{"word": "Find the drawer in the kitchen that holds knives.", "type": "A", "language": "en"}
+{"word": "Locate the nearest Wi-Fi hotspot.", "type": "A", "language": "en"}
+{"word": "Search if there are any open pet stores near the city center.", "type": "A", "language": "en"}
+{"word": "Adjust the drone's altitude to 30 meters.", "type": "B", "language": "en"}
+{"word": "Set the brightness of the bedroom lights to 50%.", "type": "B", "language": "en"}
+{"word": "Switch the drone's flight mode to \"obstacle avoidance mode.\"", "type": "B", "language": "en"}
+{"word": "Turn on the TV and switch to the sports channel.", "type": "B", "language": "en"}
+{"word": "Turn off the air conditioner in the study.", "type": "B", "language": "en"}
+{"word": "Will it rain tonight?", "type": "D", "language": "en"}
+{"word": "Explain the principle of photosynthesis.", "type": "D", "language": "en"}
+{"word": "Recommend an adventure novel suitable for children.", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to migrate to other planets in the future?", "type": "D", "language": "en"}
+{"word": "Give me some tips on how to relax during stressful moments.", "type": "D", "language": "en"}
+{"word": "找到无人机视野中的人形目标并标记其位置。", "type": "A", "language": "zh"}
+{"word": "搜索家中的车钥匙并告诉我在哪里。", "type": "A", "language": "zh"}
+{"word": "帮我查找附近的电动车充电站。", "type": "A", "language": "zh"}
+{"word": "找到书架上关于历史的书籍并推荐几本。", "type": "A", "language": "zh"}
+{"word": "定位客厅中的遥控器并显示位置。", "type": "A", "language": "zh"}
+{"word": "将无人机移动到正前方的树顶部并拍摄照片。", "type": "B", "language": "zh"}
+{"word": "启动家中的扫地机器人并开始清扫客厅。", "type": "B", "language": "zh"}
+{"word": "调整音乐播放器的音量至70%。", "type": "B", "language": "zh"}
+{"word": "指挥无人机返回出发点并降落。", "type": "B", "language": "zh"}
+{"word": "打开厨房的智能电饭煲并设置煮饭模式。", "type": "B", "language": "zh"}
+{"word": "今天的日出时间是几点？", "type": "D", "language": "zh"}
+{"word": "为什么天空在黄昏时会变成橙色？", "type": "D", "language": "zh"}
+{"word": "有哪些提高专注力的实用方法？", "type": "D", "language": "zh"}
+{"word": "解释一下AI如何进行自然语言处理。", "type": "D", "language": "zh"}
+{"word": "明天我需要穿什么衣服？会下雨吗？", "type": "D", "language": "zh"}
+{"word": "定位无人机拍摄画面中的水塔。", "type": "A", "language": "zh"}
+{"word": "搜索家里最近的灭火器位置。", "type": "A", "language": "zh"}
+{"word": "找到我最近一次存储的照片文件夹。", "type": "A", "language": "zh"}
+{"word": "请帮我查找附近的公交站点。", "type": "A", "language": "zh"}
+{"word": "找到无人机飞行区域内的所有障碍物。", "type": "A", "language": "zh"}
+{"word": "查找距离我最近的餐厅并给出详细地址。", "type": "A", "language": "zh"}
+{"word": "定位厨房中存放面粉的柜子。", "type": "A", "language": "zh"}
+{"word": "搜索我的联系人列表中姓“王”的人。", "type": "A", "language": "zh"}
+{"word": "帮我寻找卧室里掉在地毯上的耳环。", "type": "A", "language": "zh"}
+{"word": "请找到无人机航拍中最靠近海岸线的位置。", "type": "A", "language": "zh"}
+{"word": "查询公园里是否有适合野餐的草地区域。", "type": "A", "language": "zh"}
+{"word": "找到办公室的打印机并确认是否联网。", "type": "A", "language": "zh"}
+{"word": "在家中定位存放急救药箱的位置。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有飞鸟活动。", "type": "A", "language": "zh"}
+{"word": "帮我查找离我最近的电动车维修点。", "type": "A", "language": "zh"}
+{"word": "Find and mark the location of a humanoid target in the drone's field of view.", "type": "A", "language": "en"}
+{"word": "Search for the car keys in the house and tell me where they are.", "type": "A", "language": "en"}
+{"word": "Help me locate nearby electric vehicle charging stations.", "type": "A", "language": "en"}
+{"word": "Find history-related books on the bookshelf and recommend a few.", "type": "A", "language": "en"}
+{"word": "Locate the remote control in the living room and display its position.", "type": "A", "language": "en"}
+{"word": "Move the drone to the top of the tree directly ahead and take a photo.", "type": "B", "language": "en"}
+{"word": "Activate the home robot vacuum and start cleaning the living room.", "type": "B", "language": "en"}
+{"word": "Adjust the music player's volume to 70%.", "type": "B", "language": "en"}
+{"word": "Command the drone to return to the starting point and land.", "type": "B", "language": "en"}
+{"word": "Turn on the smart rice cooker in the kitchen and set it to cooking mode.", "type": "B", "language": "en"}
+{"word": "What time is sunrise today?", "type": "D", "language": "en"}
+{"word": "Why does the sky turn orange at sunset?", "type": "D", "language": "en"}
+{"word": "What are some practical ways to improve concentration?", "type": "D", "language": "en"}
+{"word": "Explain how AI performs natural language processing.", "type": "D", "language": "en"}
+{"word": "What should I wear tomorrow? Will it rain?", "type": "D", "language": "en"}
+{"word": "Locate the water tower in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Search for the nearest fire extinguisher in the house.", "type": "A", "language": "en"}
+{"word": "Find the folder containing the most recent photos I saved.", "type": "A", "language": "en"}
+{"word": "Help me locate nearby bus stops.", "type": "A", "language": "en"}
+{"word": "Identify all obstacles within the drone's flight area.", "type": "A", "language": "en"}
+{"word": "Find the nearest restaurant and provide its detailed address.", "type": "A", "language": "en"}
+{"word": "Locate the cabinet in the kitchen where flour is stored.", "type": "A", "language": "en"}
+{"word": "Search for people with the last name \"Wang\" in my contact list.", "type": "A", "language": "en"}
+{"word": "Help me find the earring that fell on the carpet in the bedroom.", "type": "A", "language": "en"}
+{"word": "Identify the point closest to the coastline in the drone's aerial footage.", "type": "A", "language": "en"}
+{"word": "Check if there is a suitable picnic area in the park.", "type": "A", "language": "en"}
+{"word": "Locate the printer in the office and confirm if it is connected to the network.", "type": "A", "language": "en"}
+{"word": "Find the location of the first aid kit in the house.", "type": "A", "language": "en"}
+{"word": "Search the drone's field of view for bird activity.", "type": "A", "language": "en"}
+{"word": "Help me find the nearest electric vehicle repair shop.", "type": "A", "language": "en"}
+{"word": "定位餐桌上放水果的篮子。", "type": "A", "language": "zh"}
+{"word": "查找酒店房间的Wi-Fi密码是否存储在手机中。", "type": "A", "language": "zh"}
+{"word": "定位附近有信号的Wi-Fi热点区域。", "type": "A", "language": "zh"}
+{"word": "搜索我最近打开的文档并列出文件名。", "type": "A", "language": "zh"}
+{"word": "找到无人机拍摄中最靠近正东方向的建筑物。", "type": "A", "language": "zh"}
+{"word": "将无人机调整为慢速飞行模式。", "type": "B", "language": "zh"}
+{"word": "调整空调温度到24摄氏度。", "type": "B", "language": "zh"}
+{"word": "打开卧室的窗帘并调至一半遮光。", "type": "B", "language": "zh"}
+{"word": "将无人机摄像头向下倾斜45度。", "type": "B", "language": "zh"}
+{"word": "关闭客厅的智能灯。", "type": "B", "language": "zh"}
+{"word": "指挥无人机围绕指定的目标物体环绕拍摄。", "type": "B", "language": "zh"}
+{"word": "将冰箱温度调低2度。", "type": "B", "language": "zh"}
+{"word": "调节卧室的智能音箱播放轻音乐。", "type": "B", "language": "zh"}
+{"word": "把无人机从自动悬停模式切换到手动控制模式。", "type": "B", "language": "zh"}
+{"word": "暂停播放的电影并调回到主菜单。", "type": "B", "language": "zh"}
+{"word": "将无人机设置为夜间模式，优化低光拍摄。", "type": "B", "language": "zh"}
+{"word": "启动电动窗帘关闭功能。", "type": "B", "language": "zh"}
+{"word": "指挥无人机从当前位置飞到坐标点（45,30）。", "type": "B", "language": "zh"}
+{"word": "设置咖啡机准备一杯浓缩咖啡。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄一段2分钟的视频。", "type": "B", "language": "zh"}
+{"word": "打开加湿器并调节湿度到40%。", "type": "B", "language": "zh"}
+{"word": "控制电视音量降低到10%。", "type": "B", "language": "zh"}
+{"word": "让无人机返航并在起飞点降落。", "type": "B", "language": "zh"}
+{"word": "把洗衣机设置为快洗模式并启动。", "type": "B", "language": "zh"}
+{"word": "调整无人机的航线以避开高楼建筑。", "type": "B", "language": "zh"}
+{"word": "为什么太阳系的行星轨道是椭圆形的？", "type": "D", "language": "zh"}
+{"word": "Locate the fruit basket on the dining table.", "type": "A", "language": "en"}
+{"word": "Check if the Wi-Fi password for the hotel room is stored on the phone.", "type": "A", "language": "en"}
+{"word": "Locate nearby Wi-Fi hotspots with signal coverage.", "type": "A", "language": "en"}
+{"word": "Search for the documents I recently opened and list their file names.", "type": "A", "language": "en"}
+{"word": "Identify the building closest to the east in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Set the drone to slow flight mode.", "type": "B", "language": "en"}
+{"word": "Adjust the air conditioner temperature to 24 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Open the bedroom curtains and set them to half shading.", "type": "B", "language": "en"}
+{"word": "Tilt the drone's camera down by 45 degrees.", "type": "B", "language": "en"}
+{"word": "Turn off the smart lights in the living room.", "type": "B", "language": "en"}
+{"word": "Command the drone to orbit around a specified target object for filming.", "type": "B", "language": "en"}
+{"word": "Lower the refrigerator temperature by 2 degrees.", "type": "B", "language": "en"}
+{"word": "Set the smart speaker in the bedroom to play soft music.", "type": "B", "language": "en"}
+{"word": "Switch the drone from auto-hover mode to manual control mode.", "type": "B", "language": "en"}
+{"word": "Pause the movie and return to the main menu.", "type": "B", "language": "en"}
+{"word": "Set the drone to night mode for optimized low-light shooting.", "type": "B", "language": "en"}
+{"word": "Activate the electric curtain closing function.", "type": "B", "language": "en"}
+{"word": "Command the drone to fly from its current position to the coordinates (45,30).", "type": "B", "language": "en"}
+{"word": "Set the coffee machine to prepare an espresso.", "type": "B", "language": "en"}
+{"word": "Control the drone to record a 2-minute video.", "type": "B", "language": "en"}
+{"word": "Turn on the humidifier and set the humidity to 40%.", "type": "B", "language": "en"}
+{"word": "Lower the TV volume to 10%.", "type": "B", "language": "en"}
+{"word": "Command the drone to return and land at the takeoff point.", "type": "B", "language": "en"}
+{"word": "Set the washing machine to quick wash mode and start it.", "type": "B", "language": "en"}
+{"word": "Adjust the drone's flight path to avoid tall buildings.", "type": "B", "language": "en"}
+{"word": "Why are the orbits of planets in the solar system elliptical?", "type": "D", "language": "en"}
+{"word": "解释人工智能如何进行图像识别。", "type": "D", "language": "zh"}
+{"word": "明天的最高气温是多少？", "type": "D", "language": "zh"}
+{"word": "人类能否实现完全可持续的能源系统？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合初学者的无人机品牌。", "type": "D", "language": "zh"}
+{"word": "请问火星探测任务的最新进展如何？", "type": "D", "language": "zh"}
+{"word": "你能给出一些健康饮食的建议吗？", "type": "D", "language": "zh"}
+{"word": "未来十年里AI技术可能的发展方向是什么？", "type": "D", "language": "zh"}
+{"word": "告诉我如何制定一个高效的学习计划。", "type": "D", "language": "zh"}
+{"word": "推荐一个适合全家出游的目的地。", "type": "D", "language": "zh"}
+{"word": "解释量子计算与传统计算机的区别。", "type": "D", "language": "zh"}
+{"word": "为什么深海动物能承受高压环境？", "type": "D", "language": "zh"}
+{"word": "推荐几部适合周末观看的经典电影。", "type": "D", "language": "zh"}
+{"word": "未来是否可能实现商业化太空旅行？", "type": "D", "language": "zh"}
+{"word": "如何提高公众对环保的关注度？", "type": "D", "language": "zh"}
+{"word": "你能给我一个锻炼核心肌肉的动作指南吗？", "type": "D", "language": "zh"}
+{"word": "为什么木星是太阳系最大的行星？", "type": "D", "language": "zh"}
+{"word": "人类能否在宇宙中找到类似地球的星球？", "type": "D", "language": "zh"}
+{"word": "为何鸟类在迁徙时会飞行成队形？", "type": "D", "language": "zh"}
+{"word": "哪些习惯有助于延长寿命？", "type": "D", "language": "zh"}
+{"word": "找到无人机飞行区域中的一片空旷草地。", "type": "A", "language": "zh"}
+{"word": "定位附近的快递自提柜并获取详细信息。", "type": "A", "language": "zh"}
+{"word": "搜索家中车库的工具箱位置。", "type": "A", "language": "zh"}
+{"word": "查找书房里是否有我的手机充电器。", "type": "A", "language": "zh"}
+{"word": "请帮我找一下周边的公交线路信息。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航拍画面中的一处水源地。", "type": "A", "language": "zh"}
+{"word": "找到离我最近的咖啡厅并提供联系电话。", "type": "A", "language": "zh"}
+{"word": "查找今天适合跑步的最佳公园。", "type": "A", "language": "zh"}
+{"word": "搜索冰箱中是否有新鲜的蔬菜存放。", "type": "A", "language": "zh"}
+{"word": "找出我手机上最近下载的文件位置。", "type": "A", "language": "zh"}
+{"word": "Explain how artificial intelligence performs image recognition.", "type": "D", "language": "en"}
+{"word": "What is the highest temperature tomorrow?", "type": "D", "language": "en"}
+{"word": "Can humanity achieve a fully sustainable energy system?", "type": "D", "language": "en"}
+{"word": "Recommend some beginner-friendly drone brands.", "type": "D", "language": "en"}
+{"word": "What are the latest developments in Mars exploration missions?", "type": "D", "language": "en"}
+{"word": "Can you provide some healthy eating tips?", "type": "D", "language": "en"}
+{"word": "What are the potential directions for AI technology development in the next decade?", "type": "D", "language": "en"}
+{"word": "Tell me how to create an efficient study plan.", "type": "D", "language": "en"}
+{"word": "Recommend a destination suitable for a family trip.", "type": "D", "language": "en"}
+{"word": "Explain the difference between quantum computing and traditional computing.", "type": "D", "language": "en"}
+{"word": "Why can deep-sea creatures withstand high-pressure environments?", "type": "D", "language": "en"}
+{"word": "Recommend some classic movies for a weekend watch.", "type": "D", "language": "en"}
+{"word": "Is commercial space travel likely to become a reality in the future?", "type": "D", "language": "en"}
+{"word": "How can public awareness of environmental protection be increased?", "type": "D", "language": "en"}
+{"word": "Can you provide a guide for a core muscle workout?", "type": "D", "language": "en"}
+{"word": "Why is Jupiter the largest planet in the solar system?", "type": "D", "language": "en"}
+{"word": "Can humans find Earth-like planets in the universe?", "type": "D", "language": "en"}
+{"word": "Why do birds fly in formations during migration?", "type": "D", "language": "en"}
+{"word": "What habits can help extend lifespan?", "type": "D", "language": "en"}
+{"word": "Find an open grassy area within the drone's flight region.", "type": "A", "language": "en"}
+{"word": "Locate the nearest parcel locker and provide detailed information.", "type": "A", "language": "en"}
+{"word": "Search for the location of the toolbox in the garage.", "type": "A", "language": "en"}
+{"word": "Check if my phone charger is in the study.", "type": "A", "language": "en"}
+{"word": "Help me find nearby bus route information.", "type": "A", "language": "en"}
+{"word": "Search for a water source in the drone’s aerial footage.", "type": "A", "language": "en"}
+{"word": "Find the nearest coffee shop and provide its contact number.", "type": "A", "language": "en"}
+{"word": "Search for the best park for running today.", "type": "A", "language": "en"}
+{"word": "Check if there are fresh vegetables stored in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Locate the most recently downloaded files on my phone.", "type": "A", "language": "en"}
+{"word": "定位无人机拍摄画面中的高塔。", "type": "A", "language": "zh"}
+{"word": "查找家庭储物间里的备用灯泡。", "type": "A", "language": "zh"}
+{"word": "找到小区内的公共健身器材。", "type": "A", "language": "zh"}
+{"word": "定位机场周边的停车场区域。", "type": "A", "language": "zh"}
+{"word": "搜索我电脑中最后修改的PPT文件。", "type": "A", "language": "zh"}
+{"word": "找到厨房中放调料瓶的架子。", "type": "A", "language": "zh"}
+{"word": "请确认我家附近有没有营业的药店。", "type": "A", "language": "zh"}
+{"word": "查找无人机拍摄画面中靠近河岸的区域。", "type": "A", "language": "zh"}
+{"word": "找出客厅沙发上的遥控器位置。", "type": "A", "language": "zh"}
+{"word": "定位办公室会议室内的投影仪遥控器。", "type": "A", "language": "zh"}
+{"word": "将无人机向东飞行500米并记录画面。", "type": "B", "language": "zh"}
+{"word": "关闭厨房里的油烟机。", "type": "B", "language": "zh"}
+{"word": "调整卧室空气净化器到睡眠模式。", "type": "B", "language": "zh"}
+{"word": "打开家中音响系统并播放轻音乐。", "type": "B", "language": "zh"}
+{"word": "将无人机的高度降低到15米悬停拍摄。", "type": "B", "language": "zh"}
+{"word": "控制扫地机器人清扫餐厅区域。", "type": "B", "language": "zh"}
+{"word": "启动智能窗帘并完全拉开窗帘。", "type": "B", "language": "zh"}
+{"word": "切换电视到我最喜欢的频道。", "type": "B", "language": "zh"}
+{"word": "调整家里热水器温度到45摄氏度。", "type": "B", "language": "zh"}
+{"word": "设置无人机为自动跟随模式。", "type": "B", "language": "zh"}
+{"word": "打开家中的净水器并开始过滤水。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前飞行任务并返回基地。", "type": "B", "language": "zh"}
+{"word": "调整智能冰箱的冷藏区温度到3摄氏度。", "type": "B", "language": "zh"}
+{"word": "指挥无人机绕目标拍摄360度视频。", "type": "B", "language": "zh"}
+{"word": "Locate the tower in the drone's footage.", "type": "A", "language": "en"}
+{"word": "Search for spare light bulbs in the home storage room.", "type": "A", "language": "en"}
+{"word": "Find the public fitness equipment in the neighborhood.", "type": "A", "language": "en"}
+{"word": "Locate the parking areas around the airport.", "type": "A", "language": "en"}
+{"word": "Search for the most recently modified PowerPoint file on my computer.", "type": "A", "language": "en"}
+{"word": "Find the shelf in the kitchen where spice bottles are stored.", "type": "A", "language": "en"}
+{"word": "Confirm if there is an open pharmacy near my home.", "type": "A", "language": "en"}
+{"word": "Search for the area near the riverbank in the drone's footage.", "type": "A", "language": "en"}
+{"word": "Locate the remote control on the living room sofa.", "type": "A", "language": "en"}
+{"word": "Find the projector remote control in the office meeting room.", "type": "A", "language": "en"}
+{"word": "Fly the drone 500 meters east and record the footage.", "type": "B", "language": "en"}
+{"word": "Turn off the kitchen range hood.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air purifier to sleep mode.", "type": "B", "language": "en"}
+{"word": "Turn on the home sound system and play soft music.", "type": "B", "language": "en"}
+{"word": "Lower the drone's altitude to 15 meters and hover for filming.", "type": "B", "language": "en"}
+{"word": "Control the robot vacuum to clean the dining area.", "type": "B", "language": "en"}
+{"word": "Activate the smart curtains and fully open them.", "type": "B", "language": "en"}
+{"word": "Switch the TV to my favorite channel.", "type": "B", "language": "en"}
+{"word": "Adjust the home water heater temperature to 45 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Set the drone to follow-me mode.", "type": "B", "language": "en"}
+{"word": "Turn on the home water purifier and start filtering water.", "type": "B", "language": "en"}
+{"word": "Stop the drone's current flight mission and return to base.", "type": "B", "language": "en"}
+{"word": "Adjust the refrigerator's cooling compartment temperature to 3 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Command the drone to record a 360-degree video around the target.", "type": "B", "language": "en"}
+{"word": "开启无人机红外摄像头功能进行夜间拍摄。", "type": "B", "language": "zh"}
+{"word": "启动智能家居门锁并设置远程控制模式。", "type": "B", "language": "zh"}
+{"word": "设置无人机速度为中等并开始巡航模式。", "type": "B", "language": "zh"}
+{"word": "关闭家庭影院系统的所有设备。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄一组全景照片。", "type": "B", "language": "zh"}
+{"word": "打开书房灯光并调节亮度到最大。", "type": "B", "language": "zh"}
+{"word": "为什么月球会产生潮汐现象？", "type": "D", "language": "zh"}
+{"word": "人类未来能否通过基因工程完全消除遗传病？", "type": "D", "language": "zh"}
+{"word": "推荐一部适合周末观赏的纪录片。", "type": "D", "language": "zh"}
+{"word": "如何提高无人机的续航时间？", "type": "D", "language": "zh"}
+{"word": "为什么植物在阳光下会进行光合作用？", "type": "D", "language": "zh"}
+{"word": "人工智能在医疗领域有哪些实际应用？", "type": "D", "language": "zh"}
+{"word": "给我讲解一下核聚变的基本原理。", "type": "D", "language": "zh"}
+{"word": "火星上的天气条件如何影响探测任务？", "type": "D", "language": "zh"}
+{"word": "如何在工作中有效应对压力？", "type": "D", "language": "zh"}
+{"word": "推荐一首适合跑步时听的音乐。", "type": "D", "language": "zh"}
+{"word": "人工智能能否实现完全的自主学习？", "type": "D", "language": "zh"}
+{"word": "为什么大气层对地球生命至关重要？", "type": "D", "language": "zh"}
+{"word": "告诉我一些历史上著名的航天任务。", "type": "D", "language": "zh"}
+{"word": "推荐几种适合室内养殖的花卉。", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能殖民木星的卫星？", "type": "D", "language": "zh"}
+{"word": "如何利用时间管理工具提高效率？", "type": "D", "language": "zh"}
+{"word": "你能告诉我最有趣的天文学发现吗？", "type": "D", "language": "zh"}
+{"word": "为什么鸟类在飞行时会成群结队？", "type": "D", "language": "zh"}
+{"word": "科学家如何研究黑洞的特性？", "type": "D", "language": "zh"}
+{"word": "人类文明的起源有哪些主要理论？", "type": "D", "language": "zh"}
+{"word": "Enable the drone's infrared camera for nighttime shooting.", "type": "B", "language": "en"}
+{"word": "Activate the smart home door lock and set it to remote control mode.", "type": "B", "language": "en"}
+{"word": "Set the drone's speed to medium and initiate cruise mode.", "type": "B", "language": "en"}
+{"word": "Turn off all devices in the home theater system.", "type": "B", "language": "en"}
+{"word": "Control the drone to capture a set of panoramic photos.", "type": "B", "language": "en"}
+{"word": "Turn on the study lights and adjust the brightness to maximum.", "type": "B", "language": "en"}
+{"word": "Why does the Moon cause tides?", "type": "D", "language": "en"}
+{"word": "Can humanity completely eliminate genetic diseases through genetic engineering in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a documentary suitable for weekend viewing.", "type": "D", "language": "en"}
+{"word": "How can drone battery life be improved?", "type": "D", "language": "en"}
+{"word": "Why do plants perform photosynthesis under sunlight?", "type": "D", "language": "en"}
+{"word": "What are some practical applications of artificial intelligence in the medical field?", "type": "D", "language": "en"}
+{"word": "Explain the basic principles of nuclear fusion.", "type": "D", "language": "en"}
+{"word": "How do weather conditions on Mars affect exploration missions?", "type": "D", "language": "en"}
+{"word": "How can one effectively cope with stress at work?", "type": "D", "language": "en"}
+{"word": "Recommend a song suitable for running.", "type": "D", "language": "en"}
+{"word": "Can artificial intelligence achieve complete autonomous learning?", "type": "D", "language": "en"}
+{"word": "Why is the atmosphere crucial for life on Earth?", "type": "D", "language": "en"}
+{"word": "Tell me about some famous historical space missions.", "type": "D", "language": "en"}
+{"word": "Recommend a few indoor plants suitable for cultivation.", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to colonize Jupiter's moons in the future?", "type": "D", "language": "en"}
+{"word": "How can time management tools be used to improve efficiency?", "type": "D", "language": "en"}
+{"word": "Can you tell me about the most interesting astronomical discoveries?", "type": "D", "language": "en"}
+{"word": "Why do birds flock together when flying?", "type": "D", "language": "en"}
+{"word": "How do scientists study the properties of black holes?", "type": "D", "language": "en"}
+{"word": "What are the main theories about the origins of human civilization?", "type": "D", "language": "en"}
+{"word": "帮我找到厨房里用来装米的容器。", "type": "A", "language": "zh"}
+{"word": "搜索我家附近是否有自助洗衣店。", "type": "A", "language": "zh"}
+{"word": "找到无人机拍摄画面中最高的建筑物。", "type": "A", "language": "zh"}
+{"word": "请定位家中阳台上的植物架。", "type": "A", "language": "zh"}
+{"word": "找出家里的备用电池放在哪里。", "type": "A", "language": "zh"}
+{"word": "查找最近的宠物医院并显示营业时间。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航线中的障碍物列表。", "type": "A", "language": "zh"}
+{"word": "找到我昨天存储在电脑桌面上的文件夹。", "type": "A", "language": "zh"}
+{"word": "帮我查一下哪家商店有最新的智能手机。", "type": "A", "language": "zh"}
+{"word": "找到附近最近的ATM机并提供导航信息。", "type": "A", "language": "zh"}
+{"word": "定位卧室床底下是否有丢失的袜子。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中的停车场位置。", "type": "A", "language": "zh"}
+{"word": "查找附近是否有营业的24小时餐厅。", "type": "A", "language": "zh"}
+{"word": "找到书架上的科幻小说，并取下《三体》。", "type": "A", "language": "zh"}
+{"word": "确认家里哪个储物柜放有清洁用品。", "type": "A", "language": "zh"}
+{"word": "定位无人机画面中桥梁的位置并测量长度。", "type": "A", "language": "zh"}
+{"word": "帮我查找公园里最适合观赏日落的地方。", "type": "A", "language": "zh"}
+{"word": "找到最近的超市并显示到达所需时间。", "type": "A", "language": "zh"}
+{"word": "搜索手机图库中包含“旅行”标签的照片。", "type": "A", "language": "zh"}
+{"word": "请找到无人机拍摄的画面中最大的绿地。", "type": "A", "language": "zh"}
+{"word": "将无人机调整为120米高并绕圈拍摄。", "type": "B", "language": "zh"}
+{"word": "启动卧室的加湿器并设置湿度为50%。", "type": "B", "language": "zh"}
+{"word": "调节电视音量到30%。", "type": "B", "language": "zh"}
+{"word": "控制无人机进入避障模式并悬停拍摄。", "type": "B", "language": "zh"}
+{"word": "打开厨房的电饭煲并设置为保温模式。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前任务并返航。", "type": "B", "language": "zh"}
+{"word": "启动车库中的智能门锁功能。", "type": "B", "language": "zh"}
+{"word": "调整无人机摄像头对准正下方拍摄。", "type": "B", "language": "zh"}
+{"word": "打开窗帘并让阳光透进来。", "type": "B", "language": "zh"}
+{"word": "让扫地机器人清扫书房并回充。", "type": "B", "language": "zh"}
+{"word": "将无人机的速度提升到20公里/小时。", "type": "B", "language": "zh"}
+{"word": "Find the container used to store rice in the kitchen.", "type": "A", "language": "en"}
+{"word": "Search if there is a self-service laundry near my home.", "type": "A", "language": "en"}
+{"word": "Locate the tallest building in the drone's footage.", "type": "A", "language": "en"}
+{"word": "Identify the plant stand on the home balcony.", "type": "A", "language": "en"}
+{"word": "Find where the spare batteries are stored in the house.", "type": "A", "language": "en"}
+{"word": "Locate the nearest pet hospital and display its operating hours.", "type": "A", "language": "en"}
+{"word": "Search for a list of obstacles in the drone’s flight path.", "type": "A", "language": "en"}
+{"word": "Find the folder I saved on my computer desktop yesterday.", "type": "A", "language": "en"}
+{"word": "Check which store has the latest smartphones available.", "type": "A", "language": "en"}
+{"word": "Locate the nearest ATM and provide navigation information.", "type": "A", "language": "en"}
+{"word": "Check if there are any lost socks under the bedroom bed.", "type": "A", "language": "en"}
+{"word": "Search for parking lot locations in the drone’s field of view.", "type": "A", "language": "en"}
+{"word": "Find out if there are any 24-hour restaurants open nearby.", "type": "A", "language": "en"}
+{"word": "Locate the science fiction books on the shelf and take down *The Three-Body Problem*.", "type": "A", "language": "en"}
+{"word": "Confirm which storage cabinet in the house contains cleaning supplies.", "type": "A", "language": "en"}
+{"word": "Identify the bridge in the drone’s footage and measure its length.", "type": "A", "language": "en"}
+{"word": "Help me find the best spot in the park to watch the sunset.", "type": "A", "language": "en"}
+{"word": "Locate the nearest supermarket and display the travel time.", "type": "A", "language": "en"}
+{"word": "Search the photo gallery on my phone for pictures tagged “travel.”", "type": "A", "language": "en"}
+{"word": "Find the largest green area in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Adjust the drone to an altitude of 120 meters and capture circular footage.", "type": "B", "language": "en"}
+{"word": "Activate the bedroom humidifier and set the humidity to 50%.", "type": "B", "language": "en"}
+{"word": "Set the TV volume to 30%.", "type": "B", "language": "en"}
+{"word": "Control the drone to enter obstacle avoidance mode and hover for shooting.", "type": "B", "language": "en"}
+{"word": "Turn on the rice cooker in the kitchen and set it to keep warm mode.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s current task and return it to base.", "type": "B", "language": "en"}
+{"word": "Activate the smart door lock function in the garage.", "type": "B", "language": "en"}
+{"word": "Adjust the drone camera to shoot directly downward.", "type": "B", "language": "en"}
+{"word": "Open the curtains to let sunlight in.", "type": "B", "language": "en"}
+{"word": "Command the robot vacuum to clean the study and return to charge.", "type": "B", "language": "en"}
+{"word": "Increase the drone's speed to 20 km/h.", "type": "B", "language": "en"}
+{"word": "关闭家中所有正在运行的智能设备。", "type": "B", "language": "zh"}
+{"word": "调节卧室的灯光颜色到柔和的暖黄色。", "type": "B", "language": "zh"}
+{"word": "启动客厅的电视并调到新闻频道。", "type": "B", "language": "zh"}
+{"word": "控制无人机抓取一个小物品并返回出发点。", "type": "B", "language": "zh"}
+{"word": "打开热水器并将水温调到45摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机在目标区域拍摄一张广角照片。", "type": "B", "language": "zh"}
+{"word": "启动音响播放一首摇滚歌曲。", "type": "B", "language": "zh"}
+{"word": "将空调温度调低到22摄氏度。", "type": "B", "language": "zh"}
+{"word": "关闭书房的窗帘以确保完全遮光。", "type": "B", "language": "zh"}
+{"word": "为什么黑洞会吸引周围的物质？", "type": "D", "language": "zh"}
+{"word": "未来的无人机技术会有哪些突破？", "type": "D", "language": "zh"}
+{"word": "请推荐一部关于时间旅行的电影。", "type": "D", "language": "zh"}
+{"word": "为什么海水是咸的而湖水通常是淡的？", "type": "D", "language": "zh"}
+{"word": "告诉我一些关于深空探测的最新进展。", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能实现长时间太空旅行？", "type": "D", "language": "zh"}
+{"word": "为什么植物会向光生长？", "type": "D", "language": "zh"}
+{"word": "推荐一个适合儿童的教育类App。", "type": "D", "language": "zh"}
+{"word": "解释一下为什么天空是蓝色的。", "type": "D", "language": "zh"}
+{"word": "为什么地球上有四季的更替？", "type": "D", "language": "zh"}
+{"word": "你能告诉我一段关于勇气的故事吗？", "type": "D", "language": "zh"}
+{"word": "未来十年人工智能可能会取代哪些工作？", "type": "D", "language": "zh"}
+{"word": "为什么太阳看起来是圆的？", "type": "D", "language": "zh"}
+{"word": "告诉我一些快速提高记忆力的方法。", "type": "D", "language": "zh"}
+{"word": "为什么海洋中的珊瑚礁需要保护？", "type": "D", "language": "zh"}
+{"word": "推荐几本关于人工智能的畅销书。", "type": "D", "language": "zh"}
+{"word": "为什么鸟类在飞行时会V形排列？", "type": "D", "language": "zh"}
+{"word": "告诉我如何进行一次有效的时间管理计划。", "type": "D", "language": "zh"}
+{"word": "请问地球上的极光是如何形成的？", "type": "D", "language": "zh"}
+{"word": "未来汽车是否可能完全由人工智能控制？", "type": "D", "language": "zh"}
+{"word": "帮我找到家中卧室墙角的插座位置。", "type": "A", "language": "zh"}
+{"word": "搜索无人机画面中是否有车辆停放。", "type": "A", "language": "zh"}
+{"word": "请帮我查找距离这里最近的公共厕所。", "type": "A", "language": "zh"}
+{"word": "定位无人机拍摄中的海滩区域。", "type": "A", "language": "zh"}
+{"word": "Turn off all running smart devices in the home.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom lights to a soft warm yellow color.", "type": "B", "language": "en"}
+{"word": "Turn on the living room TV and switch to the news channel.", "type": "B", "language": "en"}
+{"word": "Control the drone to grab a small object and return to the starting point.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and set the temperature to 45 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Command the drone to take a wide-angle photo of the target area.", "type": "B", "language": "en"}
+{"word": "Start the sound system and play a rock song.", "type": "B", "language": "en"}
+{"word": "Lower the air conditioner temperature to 22 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Close the study curtains to ensure complete blackout.", "type": "B", "language": "en"}
+{"word": "Why do black holes attract surrounding matter?", "type": "D", "language": "en"}
+{"word": "What breakthroughs might occur in drone technology in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a movie about time travel.", "type": "D", "language": "en"}
+{"word": "Why is seawater salty while lake water is usually fresh?", "type": "D", "language": "en"}
+{"word": "Tell me about the latest advancements in deep space exploration.", "type": "D", "language": "en"}
+{"word": "Could humanity achieve long-duration space travel in the future?", "type": "D", "language": "en"}
+{"word": "Why do plants grow toward light?", "type": "D", "language": "en"}
+{"word": "Recommend an educational app suitable for children.", "type": "D", "language": "en"}
+{"word": "Explain why the sky is blue.", "type": "D", "language": "en"}
+{"word": "Why does Earth experience seasonal changes?", "type": "D", "language": "en"}
+{"word": "Can you tell me a story about courage?", "type": "D", "language": "en"}
+{"word": "What jobs might artificial intelligence replace in the next decade?", "type": "D", "language": "en"}
+{"word": "Why does the Sun appear round?", "type": "D", "language": "en"}
+{"word": "Tell me some quick ways to improve memory.", "type": "D", "language": "en"}
+{"word": "Why do coral reefs in the ocean need protection?", "type": "D", "language": "en"}
+{"word": "Recommend some bestselling books about artificial intelligence.", "type": "D", "language": "en"}
+{"word": "Why do birds fly in a V-formation?", "type": "D", "language": "en"}
+{"word": "How can I create an effective time management plan?", "type": "D", "language": "en"}
+{"word": "How are auroras formed on Earth?", "type": "D", "language": "en"}
+{"word": "Will cars be fully controlled by artificial intelligence in the future?", "type": "D", "language": "en"}
+{"word": "Find the location of the outlet in the bedroom corner.", "type": "A", "language": "en"}
+{"word": "Search the drone footage to see if there are parked vehicles.", "type": "A", "language": "en"}
+{"word": "Help me find the nearest public restroom from here.", "type": "A", "language": "en"}
+{"word": "Locate the beach area in the drone footage.", "type": "A", "language": "en"}
+{"word": "找出冰箱中是否还有剩余的牛奶。", "type": "A", "language": "zh"}
+{"word": "搜索我书桌上所有散落的文具。", "type": "A", "language": "zh"}
+{"word": "请确认附近哪家咖啡店提供外卖服务。", "type": "A", "language": "zh"}
+{"word": "找到无人机视野中最近的建筑阴影区。", "type": "A", "language": "zh"}
+{"word": "定位我的背包并告诉我它在哪里。", "type": "A", "language": "zh"}
+{"word": "请在电脑里查找包含“预算”关键词的文件。", "type": "A", "language": "zh"}
+{"word": "搜索客厅的沙发垫下是否掉了硬币。", "type": "A", "language": "zh"}
+{"word": "找出无人机航拍画面中的山脉区域。", "type": "A", "language": "zh"}
+{"word": "帮我寻找附近的图书馆并查询开放时间。", "type": "A", "language": "zh"}
+{"word": "查找停车场中我的汽车具体位置。", "type": "A", "language": "zh"}
+{"word": "搜索手机图库中包含“宠物”的照片。", "type": "A", "language": "zh"}
+{"word": "找到厨房里存放咖啡豆的罐子。", "type": "A", "language": "zh"}
+{"word": "确认办公桌上是否有遗忘的钥匙。", "type": "A", "language": "zh"}
+{"word": "搜索我家附近的体育场是否开放。", "type": "A", "language": "zh"}
+{"word": "定位无人机拍摄画面中湖泊的位置。", "type": "A", "language": "zh"}
+{"word": "找到超市里卖巧克力的货架区域。", "type": "A", "language": "zh"}
+{"word": "启动无人机并设置航线绕公园飞行。", "type": "B", "language": "zh"}
+{"word": "关闭卧室的吊扇。", "type": "B", "language": "zh"}
+{"word": "调整客厅电视的屏幕亮度至中等。", "type": "B", "language": "zh"}
+{"word": "将无人机高度调整至200米并开始巡航。", "type": "B", "language": "zh"}
+{"word": "开启书房的加湿器并设置为低风模式。", "type": "B", "language": "zh"}
+{"word": "控制扫地机器人清理餐桌周围。", "type": "B", "language": "zh"}
+{"word": "打开卧室灯光并调至最低亮度。", "type": "B", "language": "zh"}
+{"word": "设置无人机摄像头跟随移动目标拍摄。", "type": "B", "language": "zh"}
+{"word": "开启智能音箱播放舒缓的自然音乐。", "type": "B", "language": "zh"}
+{"word": "将空调温度调整为25摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机在空中停留并拍摄一段视频。", "type": "B", "language": "zh"}
+{"word": "停止所有家用智能设备的运行。", "type": "B", "language": "zh"}
+{"word": "将无人机速度调整到10公里/小时进行低空飞行。", "type": "B", "language": "zh"}
+{"word": "调整厨房的灯光到冷白模式。", "type": "B", "language": "zh"}
+{"word": "Check if there is any milk left in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Search for all scattered stationery on my desk.", "type": "A", "language": "en"}
+{"word": "Confirm which nearby coffee shops offer takeaway services.", "type": "A", "language": "en"}
+{"word": "Locate the nearest shadowed area of a building in the drone's view.", "type": "A", "language": "en"}
+{"word": "Find my backpack and tell me where it is.", "type": "A", "language": "en"}
+{"word": "Search the computer for files containing the keyword \"budget.\"", "type": "A", "language": "en"}
+{"word": "Check if there are coins under the living room sofa cushions.", "type": "A", "language": "en"}
+{"word": "Identify the mountain area in the drone's aerial footage.", "type": "A", "language": "en"}
+{"word": "Help me find a nearby library and check its opening hours.", "type": "A", "language": "en"}
+{"word": "Locate my car's exact position in the parking lot.", "type": "A", "language": "en"}
+{"word": "Search the phone gallery for photos tagged “pets.”", "type": "A", "language": "en"}
+{"word": "Find the jar where coffee beans are stored in the kitchen.", "type": "A", "language": "en"}
+{"word": "Check if any keys were left behind on the desk.", "type": "A", "language": "en"}
+{"word": "Search if the sports stadium near my home is open.", "type": "A", "language": "en"}
+{"word": "Locate the lake in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Find the shelf area where chocolates are sold in the supermarket.", "type": "A", "language": "en"}
+{"word": "Start the drone and set a flight path around the park.", "type": "B", "language": "en"}
+{"word": "Turn off the ceiling fan in the bedroom.", "type": "B", "language": "en"}
+{"word": "Adjust the living room TV screen brightness to medium.", "type": "B", "language": "en"}
+{"word": "Set the drone’s altitude to 200 meters and begin cruising.", "type": "B", "language": "en"}
+{"word": "Turn on the study humidifier and set it to low fan mode.", "type": "B", "language": "en"}
+{"word": "Control the robot vacuum to clean around the dining table.", "type": "B", "language": "en"}
+{"word": "Turn on the bedroom lights and set them to the lowest brightness.", "type": "B", "language": "en"}
+{"word": "Set the drone camera to follow a moving target.", "type": "B", "language": "en"}
+{"word": "Turn on the smart speaker to play soothing nature sounds.", "type": "B", "language": "en"}
+{"word": "Adjust the air conditioner temperature to 25 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to hover and record a video.", "type": "B", "language": "en"}
+{"word": "Stop all running smart home devices.", "type": "B", "language": "en"}
+{"word": "Set the drone speed to 10 km/h for low-altitude flying.", "type": "B", "language": "en"}
+{"word": "Adjust the kitchen lights to a cool white mode.", "type": "B", "language": "en"}
+{"word": "开启冰箱速冻模式以快速冷却饮料。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并设置为快洗模式。", "type": "B", "language": "zh"}
+{"word": "指挥无人机自动跟随我并实时录制视频。", "type": "B", "language": "zh"}
+{"word": "调整智能窗帘自动关闭时间为晚上7点。", "type": "B", "language": "zh"}
+{"word": "开启热水器并设置为40摄氏度。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前飞行任务并切换到待机模式。", "type": "B", "language": "zh"}
+{"word": "为什么月亮会有不同的相位变化？", "type": "D", "language": "zh"}
+{"word": "人类是否可能在未来实现永生？", "type": "D", "language": "zh"}
+{"word": "推荐一部关于宇宙探索的纪录片。", "type": "D", "language": "zh"}
+{"word": "为什么海浪的形态会受到月球引力的影响？", "type": "D", "language": "zh"}
+{"word": "给我一些在早晨快速提升能量的方法。", "type": "D", "language": "zh"}
+{"word": "人工智能在教育领域有哪些潜在优势？", "type": "D", "language": "zh"}
+{"word": "解释光速是否是宇宙中最快的速度。", "type": "D", "language": "zh"}
+{"word": "未来无人机能否用于快速医疗急救？", "type": "D", "language": "zh"}
+{"word": "请告诉我如何制定一个科学的减肥计划。", "type": "D", "language": "zh"}
+{"word": "推荐几本关于历史事件的畅销书。", "type": "D", "language": "zh"}
+{"word": "为什么火山爆发会对全球气候产生影响？", "type": "D", "language": "zh"}
+{"word": "如何在工作中保持创造力？", "type": "D", "language": "zh"}
+{"word": "告诉我一些关于银河系的有趣事实。", "type": "D", "language": "zh"}
+{"word": "为什么鲸鱼是哺乳动物而不是鱼？", "type": "D", "language": "zh"}
+{"word": "人类是否能够彻底清除海洋中的塑料污染？", "type": "D", "language": "zh"}
+{"word": "未来的能源会以什么形式为主？", "type": "D", "language": "zh"}
+{"word": "为什么鸟类迁徙时总是选择特定的时间？", "type": "D", "language": "zh"}
+{"word": "推荐一些能帮助改善睡眠质量的方法。", "type": "D", "language": "zh"}
+{"word": "请告诉我宇航员如何在太空中饮食。", "type": "D", "language": "zh"}
+{"word": "为什么某些地区的气候变化比其他地区更显著？", "type": "D", "language": "zh"}
+{"word": "找到无人机视野中的最近一个山坡。", "type": "A", "language": "zh"}
+{"word": "搜索家中阳台上是否有未收回的衣物。", "type": "A", "language": "zh"}
+{"word": "帮我查找最近的药店并提供营业时间。", "type": "A", "language": "zh"}
+{"word": "在厨房中找到装盐的容器。", "type": "A", "language": "zh"}
+{"word": "确认家中书房的抽屉是否有打印纸。", "type": "A", "language": "zh"}
+{"word": "找到客厅中的空调遥控器位置。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄范围内的行人分布。", "type": "A", "language": "zh"}
+{"word": "查找我上次使用的蓝牙耳机在哪。", "type": "A", "language": "zh"}
+{"word": "请定位家中门口是否有放置的快递包裹。", "type": "A", "language": "zh"}
+{"word": "Activate the refrigerator's quick-freeze mode to rapidly chill beverages.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and set it to quick wash mode.", "type": "B", "language": "en"}
+{"word": "Command the drone to automatically follow me and record video in real-time.", "type": "B", "language": "en"}
+{"word": "Set the smart curtains to automatically close at 7 PM.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and set it to 40 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s current flight mission and switch it to standby mode.", "type": "B", "language": "en"}
+{"word": "Why does the Moon go through different phases?", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to achieve immortality in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a documentary about space exploration.", "type": "D", "language": "en"}
+{"word": "Why does the shape of ocean waves get influenced by the Moon's gravity?", "type": "D", "language": "en"}
+{"word": "Give me some quick ways to boost energy in the morning.", "type": "D", "language": "en"}
+{"word": "What are the potential benefits of AI in education?", "type": "D", "language": "en"}
+{"word": "Explain if the speed of light is the fastest speed in the universe.", "type": "D", "language": "en"}
+{"word": "Could drones be used for rapid medical emergency responses in the future?", "type": "D", "language": "en"}
+{"word": "Tell me how to create a scientific weight loss plan.", "type": "D", "language": "en"}
+{"word": "Recommend some bestselling books on historical events.", "type": "D", "language": "en"}
+{"word": "Why does a volcanic eruption impact global climate?", "type": "D", "language": "en"}
+{"word": "How can I maintain creativity at work?", "type": "D", "language": "en"}
+{"word": "Tell me some interesting facts about the Milky Way galaxy.", "type": "D", "language": "en"}
+{"word": "Why are whales mammals and not fish?", "type": "D", "language": "en"}
+{"word": "Can humans completely eliminate plastic pollution in the oceans?", "type": "D", "language": "en"}
+{"word": "What form of energy is likely to dominate in the future?", "type": "D", "language": "en"}
+{"word": "Why do birds migrate at specific times?", "type": "D", "language": "en"}
+{"word": "Recommend some methods to improve sleep quality.", "type": "D", "language": "en"}
+{"word": "Tell me how astronauts eat in space.", "type": "D", "language": "en"}
+{"word": "Why is climate change more pronounced in some regions than others?", "type": "D", "language": "en"}
+{"word": "Locate the nearest hill in the drone's view.", "type": "A", "language": "en"}
+{"word": "Search if there are any clothes left out on the balcony.", "type": "A", "language": "en"}
+{"word": "Help me find the nearest pharmacy and provide its operating hours.", "type": "A", "language": "en"}
+{"word": "Find the container holding salt in the kitchen.", "type": "A", "language": "en"}
+{"word": "Check if there is any printer paper in the study drawer.", "type": "A", "language": "en"}
+{"word": "Locate the air conditioner remote control in the living room.", "type": "A", "language": "en"}
+{"word": "Search for the distribution of pedestrians in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Find where I last used my Bluetooth earphones.", "type": "A", "language": "en"}
+{"word": "Check if there are any parcels left at the door.", "type": "A", "language": "en"}
+{"word": "搜索无人机拍摄中靠近河边的区域。", "type": "A", "language": "zh"}
+{"word": "确定卧室里的闹钟是否还在床头柜上。", "type": "A", "language": "zh"}
+{"word": "找到附近的停车位并显示可用情况。", "type": "A", "language": "zh"}
+{"word": "搜索客厅沙发下是否掉落了书本。", "type": "A", "language": "zh"}
+{"word": "定位无人机视野中是否有停泊的船只。", "type": "A", "language": "zh"}
+{"word": "找到餐厅桌面上的备用纸巾盒。", "type": "A", "language": "zh"}
+{"word": "帮我查找电脑中保存的最近工作文档。", "type": "A", "language": "zh"}
+{"word": "搜索冰箱里是否还有酸奶。", "type": "A", "language": "zh"}
+{"word": "查找无人机画面中地形起伏最大的区域。", "type": "A", "language": "zh"}
+{"word": "确认厨房是否有足够的橄榄油储备。", "type": "A", "language": "zh"}
+{"word": "找出公园里有没有适合休息的长椅。", "type": "A", "language": "zh"}
+{"word": "让无人机从当前位置爬升至100米高度。", "type": "B", "language": "zh"}
+{"word": "控制智能窗帘自动关闭并锁定当前状态。", "type": "B", "language": "zh"}
+{"word": "调整卧室空调至除湿模式。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并设置延迟启动为30分钟。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄一段延时摄影视频。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院系统播放动作电影。", "type": "B", "language": "zh"}
+{"word": "调整客厅的灯光亮度为75%。", "type": "B", "language": "zh"}
+{"word": "将无人机摄像头切换到热成像模式。", "type": "B", "language": "zh"}
+{"word": "停止音乐播放并切换到广播模式。", "type": "B", "language": "zh"}
+{"word": "关闭厨房的所有智能电器设备。", "type": "B", "language": "zh"}
+{"word": "控制扫地机器人清扫阳台区域。", "type": "B", "language": "zh"}
+{"word": "设置无人机自动降落在指定坐标点。", "type": "B", "language": "zh"}
+{"word": "启动空调加热模式并调节温度至28摄氏度。", "type": "B", "language": "zh"}
+{"word": "Search for areas near the river in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Check if the alarm clock in the bedroom is still on the nightstand.", "type": "A", "language": "en"}
+{"word": "Find nearby parking spots and display their availability.", "type": "A", "language": "en"}
+{"word": "Search if any books have fallen under the living room sofa.", "type": "A", "language": "en"}
+{"word": "Locate if there are any docked boats in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Find the spare tissue box on the dining table.", "type": "A", "language": "en"}
+{"word": "Help me find the most recent work documents saved on my computer.", "type": "A", "language": "en"}
+{"word": "Check if there is any yogurt left in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Locate the area with the most terrain variation in the drone footage.", "type": "A", "language": "en"}
+{"word": "Confirm if the kitchen has enough olive oil in stock.", "type": "A", "language": "en"}
+{"word": "Find out if there are suitable benches for resting in the park.", "type": "A", "language": "en"}
+{"word": "Ascend the drone from its current position to an altitude of 100 meters.", "type": "B", "language": "en"}
+{"word": "Control the smart curtains to close automatically and lock their current state.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air conditioner to dehumidification mode.", "type": "B", "language": "en"}
+{"word": "Start the washing machine with a delayed start of 30 minutes.", "type": "B", "language": "en"}
+{"word": "Control the drone to shoot a time-lapse video.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system and play an action movie.", "type": "B", "language": "en"}
+{"word": "Adjust the living room lighting brightness to 75%.", "type": "B", "language": "en"}
+{"word": "Switch the drone camera to thermal imaging mode.", "type": "B", "language": "en"}
+{"word": "Stop music playback and switch to radio mode.", "type": "B", "language": "en"}
+{"word": "Turn off all smart appliances in the kitchen.", "type": "B", "language": "en"}
+{"word": "Control the robot vacuum to clean the balcony area.", "type": "B", "language": "en"}
+{"word": "Set the drone to automatically land at a designated coordinate point.", "type": "B", "language": "en"}
+{"word": "Activate the air conditioner heating mode and set the temperature to 28 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "调整冰箱冷冻区温度到-18摄氏度。", "type": "B", "language": "zh"}
+{"word": "将无人机速度降至低速模式，拍摄细节。", "type": "B", "language": "zh"}
+{"word": "启动家中的智能音箱播放早间新闻。", "type": "B", "language": "zh"}
+{"word": "打开书房灯光并调节为自然白光。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前的跟随模式并进入手动控制。", "type": "B", "language": "zh"}
+{"word": "设置咖啡机制作一杯美式咖啡。", "type": "B", "language": "zh"}
+{"word": "控制窗户智能系统将窗户打开一半。", "type": "B", "language": "zh"}
+{"word": "为什么银河系的中心区域如此明亮？", "type": "D", "language": "zh"}
+{"word": "未来的无人驾驶技术会取代传统汽车吗？", "type": "D", "language": "zh"}
+{"word": "解释一下气候变暖对海洋生态的影响。", "type": "D", "language": "zh"}
+{"word": "为什么地球上有些地方经常地震？", "type": "D", "language": "zh"}
+{"word": "人类是否可以通过基因编辑延缓衰老？", "type": "D", "language": "zh"}
+{"word": "请推荐一本关于心理学的入门书籍。", "type": "D", "language": "zh"}
+{"word": "为什么鲸鱼的叫声能够传播那么远？", "type": "D", "language": "zh"}
+{"word": "未来人工智能是否会发展出意识？", "type": "D", "language": "zh"}
+{"word": "告诉我如何制定一个高效的早起计划。", "type": "D", "language": "zh"}
+{"word": "推荐几款适合初学者的绘画工具。", "type": "D", "language": "zh"}
+{"word": "为什么木星的引力比地球强？", "type": "D", "language": "zh"}
+{"word": "提供一些关于快速入睡的实用方法。", "type": "D", "language": "zh"}
+{"word": "为什么火山爆发时会产生大量的灰尘？", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能完全实现无污染能源？", "type": "D", "language": "zh"}
+{"word": "为什么有些动物可以在极寒环境下生存？", "type": "D", "language": "zh"}
+{"word": "请解释一下为什么宇宙在膨胀。", "type": "D", "language": "zh"}
+{"word": "给我一些提高沟通能力的实用技巧。", "type": "D", "language": "zh"}
+{"word": "为什么植物需要光来进行光合作用？", "type": "D", "language": "zh"}
+{"word": "Adjust the freezer compartment temperature to -18 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Reduce the drone speed to low mode for detailed shooting.", "type": "B", "language": "en"}
+{"word": "Activate the smart speaker to play the morning news.", "type": "B", "language": "en"}
+{"word": "Turn on the study lights and set them to natural white light.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s current follow mode and switch to manual control.", "type": "B", "language": "en"}
+{"word": "Set the coffee machine to make an Americano.", "type": "B", "language": "en"}
+{"word": "Control the smart window system to open the windows halfway.", "type": "B", "language": "en"}
+{"word": "Why is the center of the Milky Way so bright?", "type": "D", "language": "en"}
+{"word": "Will future self-driving technology replace traditional cars?", "type": "D", "language": "en"}
+{"word": "Explain how climate warming impacts marine ecosystems.", "type": "D", "language": "en"}
+{"word": "Why do certain areas of Earth experience frequent earthquakes?", "type": "D", "language": "en"}
+{"word": "Can humans slow aging through genetic editing?", "type": "D", "language": "en"}
+{"word": "Recommend an introductory book on psychology.", "type": "D", "language": "en"}
+{"word": "Why can whale sounds travel such long distances?", "type": "D", "language": "en"}
+{"word": "Will artificial intelligence develop consciousness in the future?", "type": "D", "language": "en"}
+{"word": "Tell me how to create an efficient early-morning routine.", "type": "D", "language": "en"}
+{"word": "Recommend a few beginner-friendly drawing tools.", "type": "D", "language": "en"}
+{"word": "Why is Jupiter’s gravity stronger than Earth’s?", "type": "D", "language": "en"}
+{"word": "Provide some practical methods for falling asleep quickly.", "type": "D", "language": "en"}
+{"word": "Why do volcanic eruptions produce large amounts of ash?", "type": "D", "language": "en"}
+{"word": "Could humanity fully achieve pollution-free energy in the future?", "type": "D", "language": "en"}
+{"word": "Why can some animals survive in extreme cold environments?", "type": "D", "language": "en"}
+{"word": "Explain why the universe is expanding.", "type": "D", "language": "en"}
+{"word": "Give me some practical tips to improve communication skills.", "type": "D", "language": "en"}
+{"word": "Why do plants need light for photosynthesis?", "type": "D", "language": "en"}
+{"word": "人类是否可能在太空建立永久居住地？", "type": "D", "language": "zh"}
+{"word": "未来无人机能否实现完全自主飞行？", "type": "D", "language": "zh"}
+{"word": "请找到无人机视野中面积最大的水体区域。", "type": "A", "language": "zh"}
+{"word": "搜索家中书架上是否有我的日记本。", "type": "A", "language": "zh"}
+{"word": "找到附近最近的公园并给出行车路线。", "type": "A", "language": "zh"}
+{"word": "查找我昨天保存的语音备忘录文件。", "type": "A", "language": "zh"}
+{"word": "请定位餐桌上是否有剩下的钥匙。", "type": "A", "language": "zh"}
+{"word": "确认无人机拍摄画面中是否有车辆通过桥梁。", "type": "A", "language": "zh"}
+{"word": "查找离我最近的共享单车位置。", "type": "A", "language": "zh"}
+{"word": "帮我在冰箱里找一下有没有剩余的酸奶。", "type": "A", "language": "zh"}
+{"word": "找到沙发旁边的小型垃圾桶位置。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航拍范围内是否有行人聚集点。", "type": "A", "language": "zh"}
+{"word": "定位阳台的花盆中是否有新开的花朵。", "type": "A", "language": "zh"}
+{"word": "请确认书桌上是否有一支蓝色的钢笔。", "type": "A", "language": "zh"}
+{"word": "查找附近的邮局并显示营业时间。", "type": "A", "language": "zh"}
+{"word": "找到卧室里的备用枕头放在哪里。", "type": "A", "language": "zh"}
+{"word": "搜索无人机飞行范围内最高的树木。", "type": "A", "language": "zh"}
+{"word": "请帮我找出冰箱里的冷冻肉类储存量。", "type": "A", "language": "zh"}
+{"word": "找到家里最近的插线板并标记位置。", "type": "A", "language": "zh"}
+{"word": "搜索附近有没有营业的早餐店。", "type": "A", "language": "zh"}
+{"word": "查找无人机视野中是否有飞行障碍物。", "type": "A", "language": "zh"}
+{"word": "确认我是否遗落了眼镜在会议室里。", "type": "A", "language": "zh"}
+{"word": "调整无人机飞行至100米并拍摄全景照片。", "type": "B", "language": "zh"}
+{"word": "将卧室灯光亮度降低至25%。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人并设定清洁模式为“深度清洁”。", "type": "B", "language": "zh"}
+{"word": "控制无人机开始沿指定路径巡航。", "type": "B", "language": "zh"}
+{"word": "打开客厅的窗帘并保持完全拉开状态。", "type": "B", "language": "zh"}
+{"word": "调整家中音响系统播放一首古典音乐。", "type": "B", "language": "zh"}
+{"word": "Is it possible for humans to establish permanent settlements in space?", "type": "D", "language": "en"}
+{"word": "Will drones achieve fully autonomous flight in the future?", "type": "D", "language": "en"}
+{"word": "Find the largest water body area in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Search if my diary is on the bookshelf at home.", "type": "A", "language": "en"}
+{"word": "Locate the nearest park and provide driving directions.", "type": "A", "language": "en"}
+{"word": "Find the voice memo file I saved yesterday.", "type": "A", "language": "en"}
+{"word": "Check if there are any leftover keys on the dining table.", "type": "A", "language": "en"}
+{"word": "Confirm if vehicles are passing over the bridge in the drone footage.", "type": "A", "language": "en"}
+{"word": "Locate the nearest shared bicycle.", "type": "A", "language": "en"}
+{"word": "Help me check if there is any leftover yogurt in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Find the small trash bin next to the sofa.", "type": "A", "language": "en"}
+{"word": "Search if there are pedestrian gathering spots in the drone’s aerial view.", "type": "A", "language": "en"}
+{"word": "Check if there are newly bloomed flowers in the balcony pots.", "type": "A", "language": "en"}
+{"word": "Confirm if there is a blue fountain pen on the desk.", "type": "A", "language": "en"}
+{"word": "Locate the nearest post office and display its operating hours.", "type": "A", "language": "en"}
+{"word": "Find where the spare pillows are stored in the bedroom.", "type": "A", "language": "en"}
+{"word": "Search for the tallest tree within the drone's flight range.", "type": "A", "language": "en"}
+{"word": "Help me find out the storage amount of frozen meat in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Locate the nearest power strip in the house and mark its position.", "type": "A", "language": "en"}
+{"word": "Search for any open breakfast shops nearby.", "type": "A", "language": "en"}
+{"word": "Check for any flying obstacles in the drone’s field of view.", "type": "A", "language": "en"}
+{"word": "Confirm if I left my glasses in the meeting room.", "type": "A", "language": "en"}
+{"word": "Adjust the drone to fly to 100 meters and capture panoramic photos.", "type": "B", "language": "en"}
+{"word": "Dim the bedroom lights to 25% brightness.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum and set it to \"deep clean\" mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to start cruising along a designated path.", "type": "B", "language": "en"}
+{"word": "Open the living room curtains and keep them fully open.", "type": "B", "language": "en"}
+{"word": "Adjust the home sound system to play a classical music piece.", "type": "B", "language": "en"}
+{"word": "设置无人机摄像头切换为广角模式。", "type": "B", "language": "zh"}
+{"word": "启动厨房的洗碗机并设置为快洗模式。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前飞行任务并切换到悬停模式。", "type": "B", "language": "zh"}
+{"word": "打开冰箱的速冻模式并保持30分钟。", "type": "B", "language": "zh"}
+{"word": "控制无人机自动拍摄目标区域的特写镜头。", "type": "B", "language": "zh"}
+{"word": "调整卧室空调的温度到26摄氏度。", "type": "B", "language": "zh"}
+{"word": "将无人机速度设置为中速并绕目标飞行。", "type": "B", "language": "zh"}
+{"word": "打开书房的灯光并设置为暖光模式。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院系统并播放最新的电影。", "type": "B", "language": "zh"}
+{"word": "将无人机的续航模式切换为省电模式。", "type": "B", "language": "zh"}
+{"word": "设置热水器的温度为45摄氏度并保持恒温。", "type": "B", "language": "zh"}
+{"word": "调整无人机的拍摄分辨率至4K。", "type": "B", "language": "zh"}
+{"word": "开启书房的台灯并调节为阅读模式。", "type": "B", "language": "zh"}
+{"word": "停止所有智能家电设备的自动运行模式。", "type": "B", "language": "zh"}
+{"word": "为什么地球的磁场对生命至关重要？", "type": "D", "language": "zh"}
+{"word": "人类未来是否可以通过技术实现星际移民？", "type": "D", "language": "zh"}
+{"word": "推荐一本适合学习管理学的书籍。", "type": "D", "language": "zh"}
+{"word": "为什么海洋中的某些区域比其他地方更温暖？", "type": "D", "language": "zh"}
+{"word": "请告诉我为什么月球上没有大气层。", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合初学者的锻炼计划？", "type": "D", "language": "zh"}
+{"word": "人类是否可能在火星上种植植物？", "type": "D", "language": "zh"}
+{"word": "为什么某些星球有环，而地球没有？", "type": "D", "language": "zh"}
+{"word": "未来人工智能能否完全模拟人类情感？", "type": "D", "language": "zh"}
+{"word": "推荐一个适合新手学习编程的网站。", "type": "D", "language": "zh"}
+{"word": "为什么冬天的夜空比夏天的更清晰？", "type": "D", "language": "zh"}
+{"word": "请告诉我一些关于人类遗传学的基本知识。", "type": "D", "language": "zh"}
+{"word": "为什么深海鱼类在高压环境下仍能生存？", "type": "D", "language": "zh"}
+{"word": "推荐一款适合学生使用的记笔记App。", "type": "D", "language": "zh"}
+{"word": "为什么宇宙背景辐射对研究宇宙起源如此重要？", "type": "D", "language": "zh"}
+{"word": "如何快速提高外语听力能力？", "type": "D", "language": "zh"}
+{"word": "人类未来的能源是否会以氢能源为主？", "type": "D", "language": "zh"}
+{"word": "请告诉我宇航员如何在太空中保持健康。", "type": "D", "language": "zh"}
+{"word": "为什么大部分的彗星都来自奥尔特云？", "type": "D", "language": "zh"}
+{"word": "如何制定一个有效的长期目标计划？", "type": "D", "language": "zh"}
+{"word": "帮我在书房里找到上次未完成的拼图盒子。", "type": "A", "language": "zh"}
+{"word": "Set the drone camera to wide-angle mode.", "type": "B", "language": "en"}
+{"word": "Start the kitchen dishwasher and set it to quick wash mode.", "type": "B", "language": "en"}
+{"word": "Stop the drone's current flight task and switch to hover mode.", "type": "B", "language": "en"}
+{"word": "Activate the refrigerator's quick-freeze mode and maintain it for 30 minutes.", "type": "B", "language": "en"}
+{"word": "Control the drone to automatically capture close-up shots of the target area.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom air conditioner temperature to 26 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Set the drone speed to medium and fly around the target.", "type": "B", "language": "en"}
+{"word": "Turn on the study lights and set them to warm light mode.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system and play the latest movie.", "type": "B", "language": "en"}
+{"word": "Switch the drone's endurance mode to power-saving mode.", "type": "B", "language": "en"}
+{"word": "Set the water heater temperature to 45 degrees Celsius and maintain it.", "type": "B", "language": "en"}
+{"word": "Adjust the drone's camera resolution to 4K.", "type": "B", "language": "en"}
+{"word": "Turn on the study desk lamp and set it to reading mode.", "type": "B", "language": "en"}
+{"word": "Stop all smart home devices from running in automatic mode.", "type": "B", "language": "en"}
+{"word": "Why is Earth's magnetic field crucial for life?", "type": "D", "language": "en"}
+{"word": "Can humans achieve interstellar migration through technology in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a book suitable for learning management studies.", "type": "D", "language": "en"}
+{"word": "Why are some areas of the ocean warmer than others?", "type": "D", "language": "en"}
+{"word": "Explain why there is no atmosphere on the Moon.", "type": "D", "language": "en"}
+{"word": "How can one design a beginner-friendly workout plan?", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to grow plants on Mars?", "type": "D", "language": "en"}
+{"word": "Why do some planets have rings while Earth does not?", "type": "D", "language": "en"}
+{"word": "Can artificial intelligence fully simulate human emotions in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a website for beginners to learn programming.", "type": "D", "language": "en"}
+{"word": "Why is the winter night sky clearer than in summer?", "type": "D", "language": "en"}
+{"word": "Tell me some basic knowledge about human genetics.", "type": "D", "language": "en"}
+{"word": "Why can deep-sea fish survive under high-pressure environments?", "type": "D", "language": "en"}
+{"word": "Recommend a note-taking app suitable for students.", "type": "D", "language": "en"}
+{"word": "Why is cosmic background radiation so important for studying the origin of the universe?", "type": "D", "language": "en"}
+{"word": "How can one quickly improve foreign language listening skills?", "type": "D", "language": "en"}
+{"word": "Will hydrogen energy dominate as the primary energy source in the future?", "type": "D", "language": "en"}
+{"word": "How do astronauts maintain health in space?", "type": "D", "language": "en"}
+{"word": "Why do most comets come from the Oort Cloud?", "type": "D", "language": "en"}
+{"word": "How can one create an effective long-term goal plan?", "type": "D", "language": "en"}
+{"word": "Help me find the unfinished puzzle box in the study.", "type": "A", "language": "en"}
+{"word": "搜索附近有没有公共充电站。", "type": "A", "language": "zh"}
+{"word": "请定位阳台的角落里是否有空花盆。", "type": "A", "language": "zh"}
+{"word": "找到无人机视野中最近的电线杆位置。", "type": "A", "language": "zh"}
+{"word": "查找停车场内我的车是否在原位置。", "type": "A", "language": "zh"}
+{"word": "找到厨房柜子里是否还有咖啡滤纸。", "type": "A", "language": "zh"}
+{"word": "请确认无人机画面中是否有飞鸟靠近。", "type": "A", "language": "zh"}
+{"word": "搜索我家附近是否有营业的书店。", "type": "A", "language": "zh"}
+{"word": "帮我找到办公桌上的计算器。", "type": "A", "language": "zh"}
+{"word": "搜索附近的公园是否有儿童游乐场。", "type": "A", "language": "zh"}
+{"word": "查找书房抽屉里是否还有备用的印章。", "type": "A", "language": "zh"}
+{"word": "请定位无人机视野中最显眼的红色物体。", "type": "A", "language": "zh"}
+{"word": "确认家中是否有遗漏的快递纸箱。", "type": "A", "language": "zh"}
+{"word": "找到卧室衣柜中是否存放备用毛毯。", "type": "A", "language": "zh"}
+{"word": "查找附近是否有专门收宠物用品的商店。", "type": "A", "language": "zh"}
+{"word": "请帮我搜索最近的加油站并提供导航。", "type": "A", "language": "zh"}
+{"word": "找到家里的急救药箱并确认位置。", "type": "A", "language": "zh"}
+{"word": "确认无人机拍摄的图像中是否有障碍物。", "type": "A", "language": "zh"}
+{"word": "搜索厨房台面上是否放有蔬菜刀。", "type": "A", "language": "zh"}
+{"word": "找到无人机飞行区域内的一条主干道。", "type": "A", "language": "zh"}
+{"word": "调整无人机高度至50米并保持悬停。", "type": "B", "language": "zh"}
+{"word": "启动家庭安防系统并切换到夜间模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄一段10分钟的视频。", "type": "B", "language": "zh"}
+{"word": "打开卧室的窗户并保持半开的状态。", "type": "B", "language": "zh"}
+{"word": "将扫地机器人调到静音清扫模式。", "type": "B", "language": "zh"}
+{"word": "启动电视并切换到电影频道。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄目标建筑物的顶部视角。", "type": "B", "language": "zh"}
+{"word": "Search for nearby public charging stations.", "type": "A", "language": "en"}
+{"word": "Check if there is an empty flower pot in the corner of the balcony.", "type": "A", "language": "en"}
+{"word": "Locate the nearest utility pole in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Check if my car is still in its original spot in the parking lot.", "type": "A", "language": "en"}
+{"word": "Find if there are any coffee filters left in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Confirm if there are birds approaching in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Search for any open bookstores near my home.", "type": "A", "language": "en"}
+{"word": "Help me find the calculator on my desk.", "type": "A", "language": "en"}
+{"word": "Search if the nearby park has a children’s playground.", "type": "A", "language": "en"}
+{"word": "Check if there are any spare stamps in the study drawer.", "type": "A", "language": "en"}
+{"word": "Locate the most noticeable red object in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any leftover delivery boxes in the house.", "type": "A", "language": "en"}
+{"word": "Find if there are spare blankets in the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Search for shops nearby that specifically sell pet supplies.", "type": "A", "language": "en"}
+{"word": "Help me locate the nearest gas station and provide navigation.", "type": "A", "language": "en"}
+{"word": "Find the first aid kit in the house and confirm its location.", "type": "A", "language": "en"}
+{"word": "Check if there are obstacles in the images captured by the drone.", "type": "A", "language": "en"}
+{"word": "Search if there is a vegetable knife on the kitchen counter.", "type": "A", "language": "en"}
+{"word": "Find a main road within the drone's flight area.", "type": "A", "language": "en"}
+{"word": "Adjust the drone altitude to 50 meters and hover.", "type": "B", "language": "en"}
+{"word": "Activate the home security system and switch to night mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to record a 10-minute video.", "type": "B", "language": "en"}
+{"word": "Open the bedroom windows and keep them half-open.", "type": "B", "language": "en"}
+{"word": "Set the robot vacuum to silent cleaning mode.", "type": "B", "language": "en"}
+{"word": "Turn on the TV and switch to the movie channel.", "type": "B", "language": "en"}
+{"word": "Control the drone to capture a top-down view of the target building.", "type": "B", "language": "en"}
+{"word": "调节客厅灯光至暖黄色并降低亮度。", "type": "B", "language": "zh"}
+{"word": "设置厨房烤箱的温度为180摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机沿着湖边拍摄一组照片。", "type": "B", "language": "zh"}
+{"word": "打开卧室的空调并设置为节能模式。", "type": "B", "language": "zh"}
+{"word": "停止音响系统播放当前音乐并切换到播客。", "type": "B", "language": "zh"}
+{"word": "调整无人机摄像头的对焦模式为手动。", "type": "B", "language": "zh"}
+{"word": "将洗衣机切换到漂洗模式并启动。", "type": "B", "language": "zh"}
+{"word": "让窗帘关闭以减少室内光线。", "type": "B", "language": "zh"}
+{"word": "调整无人机的飞行方向为西北并开始拍摄。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院并播放最新的动作片。", "type": "B", "language": "zh"}
+{"word": "将冰箱冷藏室温度设置为5摄氏度。", "type": "B", "language": "zh"}
+{"word": "停止所有无人机操作并降落在指定位置。", "type": "B", "language": "zh"}
+{"word": "开启加湿器并调节湿度为40%。", "type": "B", "language": "zh"}
+{"word": "为什么彗星会有长长的尾巴？", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能通过克隆技术延长寿命？", "type": "D", "language": "zh"}
+{"word": "推荐一本关于宇宙探索的入门书籍。", "type": "D", "language": "zh"}
+{"word": "为什么大气中的氧气浓度会对生命产生影响？", "type": "D", "language": "zh"}
+{"word": "如何在日常生活中减少碳足迹？", "type": "D", "language": "zh"}
+{"word": "为什么月球的引力比地球的小？", "type": "D", "language": "zh"}
+{"word": "请推荐一些适合儿童学习编程的工具。", "type": "D", "language": "zh"}
+{"word": "人类是否能在火星上找到液态水？", "type": "D", "language": "zh"}
+{"word": "为什么土星有环而其他行星没有？", "type": "D", "language": "zh"}
+{"word": "如何提高自学能力并保持学习动力？", "type": "D", "language": "zh"}
+{"word": "为什么深海中生活的鱼类通常体型较大？", "type": "D", "language": "zh"}
+{"word": "给我一些简单的心理健康调节方法。", "type": "D", "language": "zh"}
+{"word": "未来新能源技术的发展方向有哪些？", "type": "D", "language": "zh"}
+{"word": "为什么极光只出现在地球的两极？", "type": "D", "language": "zh"}
+{"word": "请告诉我量子力学的基本概念。", "type": "D", "language": "zh"}
+{"word": "如何制定一个长期职业发展的规划？", "type": "D", "language": "zh"}
+{"word": "Adjust the living room lights to warm yellow and lower the brightness.", "type": "B", "language": "en"}
+{"word": "Set the kitchen oven temperature to 180 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to take a series of photos along the lakeside.", "type": "B", "language": "en"}
+{"word": "Turn on the bedroom air conditioner and set it to energy-saving mode.", "type": "B", "language": "en"}
+{"word": "Stop the sound system from playing the current music and switch to a podcast.", "type": "B", "language": "en"}
+{"word": "Set the drone camera focus mode to manual.", "type": "B", "language": "en"}
+{"word": "Switch the washing machine to rinse mode and start it.", "type": "B", "language": "en"}
+{"word": "Close the curtains to reduce indoor lighting.", "type": "B", "language": "en"}
+{"word": "Adjust the drone's flight direction to northwest and begin recording.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system and play the latest action movie.", "type": "B", "language": "en"}
+{"word": "Set the refrigerator's cooling compartment temperature to 5 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Stop all drone operations and land it at the specified location.", "type": "B", "language": "en"}
+{"word": "Turn on the humidifier and set the humidity to 40%.", "type": "B", "language": "en"}
+{"word": "Why do comets have long tails?", "type": "D", "language": "en"}
+{"word": "Could humans extend lifespan through cloning technology in the future?", "type": "D", "language": "en"}
+{"word": "Recommend an introductory book on space exploration.", "type": "D", "language": "en"}
+{"word": "Why does the concentration of oxygen in the atmosphere impact life?", "type": "D", "language": "en"}
+{"word": "How can carbon footprints be reduced in daily life?", "type": "D", "language": "en"}
+{"word": "Why is the Moon’s gravity weaker than Earth’s?", "type": "D", "language": "en"}
+{"word": "Recommend some tools for children to learn programming.", "type": "D", "language": "en"}
+{"word": "Can humans find liquid water on Mars?", "type": "D", "language": "en"}
+{"word": "Why does Saturn have rings while other planets do not?", "type": "D", "language": "en"}
+{"word": "How can self-learning skills be improved and motivation sustained?", "type": "D", "language": "en"}
+{"word": "Why are deep-sea fish often larger in size?", "type": "D", "language": "en"}
+{"word": "Provide some simple mental health management tips.", "type": "D", "language": "en"}
+{"word": "What are the future directions for new energy technologies?", "type": "D", "language": "en"}
+{"word": "Why do auroras appear only at the poles of Earth?", "type": "D", "language": "en"}
+{"word": "Explain the basic concepts of quantum mechanics.", "type": "D", "language": "en"}
+{"word": "How can one create a long-term career development plan?", "type": "D", "language": "en"}
+{"word": "为什么火星表面呈现红色？", "type": "D", "language": "zh"}
+{"word": "为什么地球有磁场，而火星却没有？", "type": "D", "language": "zh"}
+{"word": "推荐一部适合家庭观看的励志电影。", "type": "D", "language": "zh"}
+{"word": "如何在短时间内记住大量信息？", "type": "D", "language": "zh"}
+{"word": "请帮我找一下书架上的《哈利·波特》。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有动物活动的痕迹。", "type": "A", "language": "zh"}
+{"word": "帮我确认停车场里是否还有空位。", "type": "A", "language": "zh"}
+{"word": "查找我家附近最近的宠物美容店。", "type": "A", "language": "zh"}
+{"word": "找到卧室抽屉里备用的手机充电线。", "type": "A", "language": "zh"}
+{"word": "请定位无人机拍摄画面中是否有河流经过。", "type": "A", "language": "zh"}
+{"word": "确认沙发下是否掉了玩具。", "type": "A", "language": "zh"}
+{"word": "查找厨房台面上的那本食谱。", "type": "A", "language": "zh"}
+{"word": "帮我找到最近的汽车修理店并提供电话。", "type": "A", "language": "zh"}
+{"word": "确认无人机飞行区域内的空旷地是否适合降落。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有营业的24小时超市。", "type": "A", "language": "zh"}
+{"word": "定位餐桌上是否有遗漏的刀叉。", "type": "A", "language": "zh"}
+{"word": "请查找上次的会议记录存储在电脑的哪个文件夹。", "type": "A", "language": "zh"}
+{"word": "确认无人机拍摄画面中是否有施工区域。", "type": "A", "language": "zh"}
+{"word": "找到家里的备用Wi-Fi路由器放在哪里。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有大型卡车经过。", "type": "A", "language": "zh"}
+{"word": "请帮我查找阳台上的备用花肥。", "type": "A", "language": "zh"}
+{"word": "找出书桌抽屉里是否有足够的备用笔芯。", "type": "A", "language": "zh"}
+{"word": "搜索无人机飞行范围内的路标或交通信号。", "type": "A", "language": "zh"}
+{"word": "查找公园内最近的公共饮水点。", "type": "A", "language": "zh"}
+{"word": "将无人机调整到20米高度并绕目标飞行。", "type": "B", "language": "zh"}
+{"word": "打开厨房的电饭煲并设置为蒸煮模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机切换至红外拍摄模式。", "type": "B", "language": "zh"}
+{"word": "Why is the surface of Mars red?", "type": "D", "language": "en"}
+{"word": "Why does Earth have a magnetic field while Mars does not?", "type": "D", "language": "en"}
+{"word": "Recommend an inspiring movie suitable for family viewing.", "type": "D", "language": "en"}
+{"word": "How can one memorize a large amount of information in a short time?", "type": "D", "language": "en"}
+{"word": "Help me find *Harry Potter* on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Search for signs of animal activity in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Check if there are any vacant spots in the parking lot.", "type": "A", "language": "en"}
+{"word": "Locate the nearest pet grooming salon near my home.", "type": "A", "language": "en"}
+{"word": "Find the spare phone charging cable in the bedroom drawer.", "type": "A", "language": "en"}
+{"word": "Check if there is a river visible in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Confirm if any toys have fallen under the sofa.", "type": "A", "language": "en"}
+{"word": "Find the cookbook on the kitchen counter.", "type": "A", "language": "en"}
+{"word": "Help me locate the nearest car repair shop and provide its contact number.", "type": "A", "language": "en"}
+{"word": "Confirm if there is a suitable landing spot in the open area within the drone’s flight range.", "type": "A", "language": "en"}
+{"word": "Search for any 24-hour supermarkets open nearby.", "type": "A", "language": "en"}
+{"word": "Locate if there are any leftover knives and forks on the dining table.", "type": "A", "language": "en"}
+{"word": "Find out in which folder the last meeting notes are saved on the computer.", "type": "A", "language": "en"}
+{"word": "Check if there are any construction zones in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Locate where the spare Wi-Fi router is stored at home.", "type": "A", "language": "en"}
+{"word": "Search if any large trucks are visible in the drone’s field of view.", "type": "A", "language": "en"}
+{"word": "Help me find spare plant fertilizer on the balcony.", "type": "A", "language": "en"}
+{"word": "Check if there are enough spare pen refills in the desk drawer.", "type": "A", "language": "en"}
+{"word": "Search for road signs or traffic signals within the drone’s flight area.", "type": "A", "language": "en"}
+{"word": "Locate the nearest public drinking water point in the park.", "type": "A", "language": "en"}
+{"word": "Adjust the drone to 20 meters altitude and fly around the target.", "type": "B", "language": "en"}
+{"word": "Turn on the kitchen rice cooker and set it to steam mode.", "type": "B", "language": "en"}
+{"word": "Switch the drone to infrared shooting mode.", "type": "B", "language": "en"}
+{"word": "调整卧室灯光至100%的亮度。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人并清扫卧室。", "type": "B", "language": "zh"}
+{"word": "调整空调到22摄氏度的制冷模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机从当前位置飞到目的地坐标。", "type": "B", "language": "zh"}
+{"word": "停止智能音响播放当前歌曲。", "type": "B", "language": "zh"}
+{"word": "启动智能窗帘关闭功能以遮光。", "type": "B", "language": "zh"}
+{"word": "将冰箱的冷冻区调节至-15摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院并播放动作电影。", "type": "B", "language": "zh"}
+{"word": "控制无人机在空中悬停并拍摄全景照片。", "type": "B", "language": "zh"}
+{"word": "开启热水器并设置为速热模式。", "type": "B", "language": "zh"}
+{"word": "将灯光颜色调节为柔和的暖黄色。", "type": "B", "language": "zh"}
+{"word": "打开书房的台灯并调节到阅读亮度。", "type": "B", "language": "zh"}
+{"word": "调整无人机的速度为高速模式以节省时间。", "type": "B", "language": "zh"}
+{"word": "启动家中的安全警报系统。", "type": "B", "language": "zh"}
+{"word": "停止无人机飞行任务并自动返航。", "type": "B", "language": "zh"}
+{"word": "开启冰箱的保鲜模式以延长食物保存时间。", "type": "B", "language": "zh"}
+{"word": "控制电视播放YouTube上的健身视频。", "type": "B", "language": "zh"}
+{"word": "为什么太阳系的行星轨道都是椭圆形的？", "type": "D", "language": "zh"}
+{"word": "人类未来是否可以实现火星移民？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合新手的无人机品牌。", "type": "D", "language": "zh"}
+{"word": "为什么地球的温度分布不均？", "type": "D", "language": "zh"}
+{"word": "如何利用AI技术优化家庭管理？", "type": "D", "language": "zh"}
+{"word": "为什么深海鱼类的身体构造如此奇特？", "type": "D", "language": "zh"}
+{"word": "未来自动驾驶是否会完全替代人类驾驶？", "type": "D", "language": "zh"}
+{"word": "为什么银河系的中心区域如此密集？", "type": "D", "language": "zh"}
+{"word": "提供一些提高生产力的时间管理技巧。", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合孩子的学习计划？", "type": "D", "language": "zh"}
+{"word": "人类是否可以通过基因编辑彻底消除遗传疾病？", "type": "D", "language": "zh"}
+{"word": "为什么天空的颜色会随时间而变化？", "type": "D", "language": "zh"}
+{"word": "请推荐几部经典的科幻小说。", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能通过AI提升寿命？", "type": "D", "language": "zh"}
+{"word": "为什么某些动物会具有夜视能力？", "type": "D", "language": "zh"}
+{"word": "如何快速学会一种新的技能？", "type": "D", "language": "zh"}
+{"word": "为什么宇宙的膨胀速度会随着时间加快？", "type": "D", "language": "zh"}
+{"word": "提供一些日常生活中节约能源的小贴士。", "type": "D", "language": "zh"}
+{"word": "人类未来是否可以在地球外建立永久居住地？", "type": "D", "language": "zh"}
+{"word": "为什么火山会喷发出岩浆？", "type": "D", "language": "zh"}
+{"word": "搜索无人机拍摄区域中的水体分布情况。", "type": "A", "language": "zh"}
+{"word": "帮我找一下餐桌下是否有落下的餐具。", "type": "A", "language": "zh"}
+{"word": "Adjust the bedroom lights to 100% brightness.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum and clean the bedroom.", "type": "B", "language": "en"}
+{"word": "Set the air conditioner to cooling mode at 22 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to fly from its current position to the destination coordinates.", "type": "B", "language": "en"}
+{"word": "Stop the smart speaker from playing the current song.", "type": "B", "language": "en"}
+{"word": "Activate the smart curtains to close and block light.", "type": "B", "language": "en"}
+{"word": "Set the freezer compartment temperature to -15 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Start the home theater system and play an action movie.", "type": "B", "language": "en"}
+{"word": "Control the drone to hover and take panoramic photos.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and set it to quick heat mode.", "type": "B", "language": "en"}
+{"word": "Adjust the lighting color to a soft warm yellow.", "type": "B", "language": "en"}
+{"word": "Turn on the desk lamp in the study and set it to reading brightness.", "type": "B", "language": "en"}
+{"word": "Set the drone speed to high mode to save time.", "type": "B", "language": "en"}
+{"word": "Activate the home security alarm system.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s flight mission and initiate automatic return.", "type": "B", "language": "en"}
+{"word": "Turn on the refrigerator's freshness mode to extend food preservation.", "type": "B", "language": "en"}
+{"word": "Control the TV to play fitness videos on YouTube.", "type": "B", "language": "en"}
+{"word": "Why are planetary orbits in the solar system elliptical?", "type": "D", "language": "en"}
+{"word": "Could humans achieve Mars colonization in the future?", "type": "D", "language": "en"}
+{"word": "Recommend some beginner-friendly drone brands.", "type": "D", "language": "en"}
+{"word": "Why is Earth's temperature distribution uneven?", "type": "D", "language": "en"}
+{"word": "How can AI technology optimize home management?", "type": "D", "language": "en"}
+{"word": "Why are deep-sea fish anatomically so unique?", "type": "D", "language": "en"}
+{"word": "Will autonomous driving completely replace human drivers in the future?", "type": "D", "language": "en"}
+{"word": "Why is the center of the Milky Way so dense?", "type": "D", "language": "en"}
+{"word": "Provide some time management tips to boost productivity.", "type": "D", "language": "en"}
+{"word": "How can one design an effective study plan for children?", "type": "D", "language": "en"}
+{"word": "Can humans completely eliminate genetic diseases through gene editing?", "type": "D", "language": "en"}
+{"word": "Why does the sky change color over time?", "type": "D", "language": "en"}
+{"word": "Recommend a few classic science fiction novels.", "type": "D", "language": "en"}
+{"word": "Can AI enhance human lifespan in the future?", "type": "D", "language": "en"}
+{"word": "Why do some animals have night vision?", "type": "D", "language": "en"}
+{"word": "How can one quickly learn a new skill?", "type": "D", "language": "en"}
+{"word": "Why is the universe's expansion accelerating over time?", "type": "D", "language": "en"}
+{"word": "Provide some tips for saving energy in daily life.", "type": "D", "language": "en"}
+{"word": "Could humans establish permanent settlements outside Earth in the future?", "type": "D", "language": "en"}
+{"word": "Why do volcanoes erupt with magma?", "type": "D", "language": "en"}
+{"word": "Search for water body distribution in the drone’s captured area.", "type": "A", "language": "en"}
+{"word": "Check if there are any dropped utensils under the dining table.", "type": "A", "language": "en"}
+{"word": "查找书架上是否有未归类的书籍。", "type": "A", "language": "zh"}
+{"word": "确认厨房橱柜里是否还有备用的杯子。", "type": "A", "language": "zh"}
+{"word": "找到最近的充电桩并提供充电费用信息。", "type": "A", "language": "zh"}
+{"word": "搜索我家附近有没有营业的花店。", "type": "A", "language": "zh"}
+{"word": "确认阳台角落是否堆放了快递纸箱。", "type": "A", "language": "zh"}
+{"word": "查找无人机画面中最近的树木群落。", "type": "A", "language": "zh"}
+{"word": "搜索周边有没有正在营业的餐馆。", "type": "A", "language": "zh"}
+{"word": "请查找是否有可以立即预约的牙医诊所。", "type": "A", "language": "zh"}
+{"word": "帮我确认办公室抽屉里是否有装订机。", "type": "A", "language": "zh"}
+{"word": "定位无人机视野中建筑物的高度分布。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有公交站并提供路线信息。", "type": "A", "language": "zh"}
+{"word": "查找卧室衣柜中是否有我的运动服。", "type": "A", "language": "zh"}
+{"word": "确认会议室内是否放有白板笔。", "type": "A", "language": "zh"}
+{"word": "找到书桌抽屉中最近购买的笔记本。", "type": "A", "language": "zh"}
+{"word": "查找无人机航拍中是否有车辆出入痕迹。", "type": "A", "language": "zh"}
+{"word": "搜索花园中是否有枯萎的植物需要修剪。", "type": "A", "language": "zh"}
+{"word": "找到冰箱冷藏室里的剩余蔬菜。", "type": "A", "language": "zh"}
+{"word": "确认周围是否有可以停车的空位。", "type": "A", "language": "zh"}
+{"word": "控制无人机拍摄一个日落延时摄影。", "type": "B", "language": "zh"}
+{"word": "将无人机速度设置为慢速并开始跟踪目标。", "type": "B", "language": "zh"}
+{"word": "调整冰箱冷藏区温度为6摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人并设置清洁路径为全屋覆盖。", "type": "B", "language": "zh"}
+{"word": "开启加湿器并调节湿度为50%。", "type": "B", "language": "zh"}
+{"word": "控制无人机摄像头向右旋转90度。", "type": "B", "language": "zh"}
+{"word": "启动厨房的咖啡机制作一杯拿铁。", "type": "B", "language": "zh"}
+{"word": "将电视音量调低到15%。", "type": "B", "language": "zh"}
+{"word": "调整卧室灯光至柔和模式。", "type": "B", "language": "zh"}
+{"word": "停止无人机任务并返回出发点降落。", "type": "B", "language": "zh"}
+{"word": "控制空调切换至节能模式并设置25摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院播放最新的音乐专辑。", "type": "B", "language": "zh"}
+{"word": "Check if there are unclassified books on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Confirm if there are spare cups in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Find the nearest charging station and provide charging cost information.", "type": "A", "language": "en"}
+{"word": "Search if there are any open flower shops near my home.", "type": "A", "language": "en"}
+{"word": "Confirm if there are delivery boxes stacked in the balcony corner.", "type": "A", "language": "en"}
+{"word": "Locate the nearest tree clusters in the drone footage.", "type": "A", "language": "en"}
+{"word": "Search if there are any open restaurants nearby.", "type": "A", "language": "en"}
+{"word": "Check if there is a dentist clinic available for immediate appointment.", "type": "A", "language": "en"}
+{"word": "Confirm if there is a stapler in the office drawer.", "type": "A", "language": "en"}
+{"word": "Locate the height distribution of buildings in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Search if there is a nearby bus stop and provide route information.", "type": "A", "language": "en"}
+{"word": "Check if my sportswear is in the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Confirm if there are whiteboard markers in the meeting room.", "type": "A", "language": "en"}
+{"word": "Find the recently purchased notebook in the desk drawer.", "type": "A", "language": "en"}
+{"word": "Search if there are signs of vehicle activity in the drone's footage.", "type": "A", "language": "en"}
+{"word": "Check if there are any wilted plants in the garden that need trimming.", "type": "A", "language": "en"}
+{"word": "Locate the remaining vegetables in the refrigerator’s cooling compartment.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any vacant parking spaces nearby.", "type": "A", "language": "en"}
+{"word": "Control the drone to capture a sunset time-lapse.", "type": "B", "language": "en"}
+{"word": "Set the drone speed to slow and start tracking a target.", "type": "B", "language": "en"}
+{"word": "Adjust the refrigerator cooling compartment temperature to 6 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum and set the cleaning path to full house coverage.", "type": "B", "language": "en"}
+{"word": "Turn on the humidifier and set the humidity to 50%.", "type": "B", "language": "en"}
+{"word": "Control the drone camera to rotate 90 degrees to the right.", "type": "B", "language": "en"}
+{"word": "Start the kitchen coffee machine to make a latte.", "type": "B", "language": "en"}
+{"word": "Lower the TV volume to 15%.", "type": "B", "language": "en"}
+{"word": "Set the bedroom lights to a soft mode.", "type": "B", "language": "en"}
+{"word": "Stop the drone mission and return it to the starting point to land.", "type": "B", "language": "en"}
+{"word": "Switch the air conditioner to energy-saving mode and set it to 25 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system to play the latest music album.", "type": "B", "language": "en"}
+{"word": "打开窗帘让阳光进入客厅。", "type": "B", "language": "zh"}
+{"word": "控制无人机在湖面上方盘旋3分钟拍摄视频。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并切换到快洗程序。", "type": "B", "language": "zh"}
+{"word": "将无人机设置为静音模式以减少噪音。", "type": "B", "language": "zh"}
+{"word": "启动智能烤箱并设置为180摄氏度烘焙模式。", "type": "B", "language": "zh"}
+{"word": "调节智能音箱播放白噪音帮助睡眠。", "type": "B", "language": "zh"}
+{"word": "停止卧室空调运行并切换至自然通风模式。", "type": "B", "language": "zh"}
+{"word": "打开冰箱速冻模式快速冷却新放入的食材。", "type": "B", "language": "zh"}
+{"word": "为什么地球上会有不同的气候带？", "type": "D", "language": "zh"}
+{"word": "人类未来是否可能移民到月球？", "type": "D", "language": "zh"}
+{"word": "推荐一款适合初学者的绘画App。", "type": "D", "language": "zh"}
+{"word": "为什么宇宙背景辐射对研究宇宙起源重要？", "type": "D", "language": "zh"}
+{"word": "如何制定一个有效的健身计划？", "type": "D", "language": "zh"}
+{"word": "为什么光速是宇宙中的速度极限？", "type": "D", "language": "zh"}
+{"word": "未来新能源是否能完全取代化石燃料？", "type": "D", "language": "zh"}
+{"word": "为什么深海鱼类通常比浅海鱼类体型更小？", "type": "D", "language": "zh"}
+{"word": "提供一些提高写作效率的建议。", "type": "D", "language": "zh"}
+{"word": "如何利用冥想来缓解日常压力？", "type": "D", "language": "zh"}
+{"word": "为什么火星的表面看起来是红色的？", "type": "D", "language": "zh"}
+{"word": "请推荐几本关于心理学的入门读物。", "type": "D", "language": "zh"}
+{"word": "为什么大气层能保护地球免受太阳辐射？", "type": "D", "language": "zh"}
+{"word": "如何在家中搭建一个智能化的工作空间？", "type": "D", "language": "zh"}
+{"word": "为什么地球上的昼夜长短会随季节变化？", "type": "D", "language": "zh"}
+{"word": "推荐一些简单易学的时间管理技巧。", "type": "D", "language": "zh"}
+{"word": "为什么人类无法直接观测到黑洞？", "type": "D", "language": "zh"}
+{"word": "未来是否可能开发出人工智能医生？", "type": "D", "language": "zh"}
+{"word": "如何通过短期学习掌握一项新技能？", "type": "D", "language": "zh"}
+{"word": "为什么某些植物只在夜晚开花？", "type": "D", "language": "zh"}
+{"word": "帮我确认阳台上的植物架是否摆放整齐。", "type": "A", "language": "zh"}
+{"word": "Open the curtains to let sunlight into the living room.", "type": "B", "language": "en"}
+{"word": "Control the drone to hover over the lake for 3 minutes to record a video.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and switch to quick wash mode.", "type": "B", "language": "en"}
+{"word": "Set the drone to silent mode to reduce noise.", "type": "B", "language": "en"}
+{"word": "Activate the smart oven and set it to 180 degrees Celsius in baking mode.", "type": "B", "language": "en"}
+{"word": "Adjust the smart speaker to play white noise to aid sleep.", "type": "B", "language": "en"}
+{"word": "Stop the bedroom air conditioner and switch to natural ventilation mode.", "type": "B", "language": "en"}
+{"word": "Turn on the refrigerator’s quick-freeze mode to quickly cool newly added items.", "type": "B", "language": "en"}
+{"word": "Why does Earth have different climate zones?", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to colonize the Moon in the future?", "type": "D", "language": "en"}
+{"word": "Recommend a drawing app suitable for beginners.", "type": "D", "language": "en"}
+{"word": "Why is cosmic background radiation important for studying the origin of the universe?", "type": "D", "language": "en"}
+{"word": "How can one create an effective fitness plan?", "type": "D", "language": "en"}
+{"word": "Why is the speed of light the universal speed limit?", "type": "D", "language": "en"}
+{"word": "Can renewable energy fully replace fossil fuels in the future?", "type": "D", "language": "en"}
+{"word": "Why are deep-sea fish generally smaller than shallow-water fish?", "type": "D", "language": "en"}
+{"word": "Provide some tips to improve writing efficiency.", "type": "D", "language": "en"}
+{"word": "How can meditation be used to alleviate daily stress?", "type": "D", "language": "en"}
+{"word": "Why does Mars appear red on its surface?", "type": "D", "language": "en"}
+{"word": "Recommend a few introductory books on psychology.", "type": "D", "language": "en"}
+{"word": "Why does the atmosphere protect Earth from solar radiation?", "type": "D", "language": "en"}
+{"word": "How can one set up a smart workspace at home?", "type": "D", "language": "en"}
+{"word": "Why does the length of day and night change with the seasons?", "type": "D", "language": "en"}
+{"word": "Recommend some simple and easy-to-learn time management tips.", "type": "D", "language": "en"}
+{"word": "Why can’t humans directly observe black holes?", "type": "D", "language": "en"}
+{"word": "Could artificial intelligence doctors be developed in the future?", "type": "D", "language": "en"}
+{"word": "How can one learn a new skill quickly in a short time?", "type": "D", "language": "en"}
+{"word": "Why do some plants bloom only at night?", "type": "D", "language": "en"}
+{"word": "Check if the plant stand on the balcony is neatly arranged.", "type": "A", "language": "en"}
+{"word": "搜索冰箱冷藏区里是否还有水果。", "type": "A", "language": "zh"}
+{"word": "找到家中衣柜里是否有折叠好的毛巾。", "type": "A", "language": "zh"}
+{"word": "确认无人机视野中是否有出现流浪动物。", "type": "A", "language": "zh"}
+{"word": "查找厨房抽屉里是否还有备用刀具。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有提供外卖服务的中餐厅。", "type": "A", "language": "zh"}
+{"word": "帮我确认书桌上的打印机是否已通电。", "type": "A", "language": "zh"}
+{"word": "找出无人机飞行区域内的桥梁数量。", "type": "A", "language": "zh"}
+{"word": "请查找沙发下是否遗落了遥控器。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄画面中是否有停车标志。", "type": "A", "language": "zh"}
+{"word": "找到会议室内是否还有未使用的插座。", "type": "A", "language": "zh"}
+{"word": "确认无人机视野中是否出现电线干扰物。", "type": "A", "language": "zh"}
+{"word": "搜索卧室角落里的小型储物箱位置。", "type": "A", "language": "zh"}
+{"word": "查找厨房里是否还有未开封的饼干。", "type": "A", "language": "zh"}
+{"word": "帮我确认冰箱冷冻区里的鱼肉是否足够。", "type": "A", "language": "zh"}
+{"word": "找到书架上是否有我上次没读完的小说。", "type": "A", "language": "zh"}
+{"word": "搜索无人机飞行路径中是否存在障碍物。", "type": "A", "language": "zh"}
+{"word": "查找浴室柜里是否还有新的牙刷存放。", "type": "A", "language": "zh"}
+{"word": "帮我确认无人机视野中是否有阳伞遮挡物。", "type": "A", "language": "zh"}
+{"word": "搜索家中是否遗落了一双备用拖鞋。", "type": "A", "language": "zh"}
+{"word": "控制无人机在空中悬停5分钟拍摄视频。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清洁玄关区域。", "type": "B", "language": "zh"}
+{"word": "将卧室的灯光调节为适合睡眠的亮度。", "type": "B", "language": "zh"}
+{"word": "控制无人机改变方向，朝北飞行200米。", "type": "B", "language": "zh"}
+{"word": "启动热水器并设置水温至42摄氏度。", "type": "B", "language": "zh"}
+{"word": "打开客厅的空调并切换至除湿模式。", "type": "B", "language": "zh"}
+{"word": "调整无人机的镜头焦距以拍摄远处物体。", "type": "B", "language": "zh"}
+{"word": "启动音响播放最新的音乐榜单。", "type": "B", "language": "zh"}
+{"word": "将智能窗帘关闭并保持当前状态。", "type": "B", "language": "zh"}
+{"word": "控制无人机在空中进行环绕拍摄。", "type": "B", "language": "zh"}
+{"word": "Search if there are any fruits left in the refrigerator's cooling compartment.", "type": "A", "language": "en"}
+{"word": "Check if there are folded towels in the wardrobe.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any stray animals visible in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Check if there are spare knives in the kitchen drawer.", "type": "A", "language": "en"}
+{"word": "Search for nearby Chinese restaurants offering delivery services.", "type": "A", "language": "en"}
+{"word": "Confirm if the printer on the desk is powered on.", "type": "A", "language": "en"}
+{"word": "Count the number of bridges within the drone's flight area.", "type": "A", "language": "en"}
+{"word": "Check if any remote control is left under the sofa.", "type": "A", "language": "en"}
+{"word": "Search if there is a parking sign visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Find if there are any unused power outlets in the meeting room.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any electrical wires obstructing the drone’s view.", "type": "A", "language": "en"}
+{"word": "Search for the location of a small storage box in the bedroom corner.", "type": "A", "language": "en"}
+{"word": "Check if there are unopened biscuits in the kitchen.", "type": "A", "language": "en"}
+{"word": "Confirm if there is enough fish meat in the freezer.", "type": "A", "language": "en"}
+{"word": "Find if the novel I left unfinished is on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Search for obstacles along the drone's flight path.", "type": "A", "language": "en"}
+{"word": "Check if there are new toothbrushes stored in the bathroom cabinet.", "type": "A", "language": "en"}
+{"word": "Confirm if there are umbrellas obstructing the drone’s view.", "type": "A", "language": "en"}
+{"word": "Search if there is a pair of spare slippers left in the house.", "type": "A", "language": "en"}
+{"word": "Control the drone to hover for 5 minutes and record a video.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum to clean the entrance area.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom lights to a sleep-friendly brightness.", "type": "B", "language": "en"}
+{"word": "Control the drone to change direction and fly 200 meters north.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and set the water temperature to 42 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Turn on the living room air conditioner and switch to dehumidification mode.", "type": "B", "language": "en"}
+{"word": "Adjust the drone lens focus to capture distant objects.", "type": "B", "language": "en"}
+{"word": "Activate the sound system to play the latest music chart.", "type": "B", "language": "en"}
+{"word": "Close the smart curtains and maintain their current state.", "type": "B", "language": "en"}
+{"word": "Control the drone to perform circular filming in the air.", "type": "B", "language": "en"}
+{"word": "调整家庭影院音量到50%的输出水平。", "type": "B", "language": "zh"}
+{"word": "将厨房的智能烤箱设置为150摄氏度。", "type": "B", "language": "zh"}
+{"word": "停止无人机的自动任务并切换到手动模式。", "type": "B", "language": "zh"}
+{"word": "控制客厅的电视切换到游戏模式。", "type": "B", "language": "zh"}
+{"word": "启动洗碗机并选择节能洗涤模式。", "type": "B", "language": "zh"}
+{"word": "将无人机设置为定点追踪功能，跟随目标。", "type": "B", "language": "zh"}
+{"word": "调整卧室空调温度到24摄氏度并开启风扇模式。", "type": "B", "language": "zh"}
+{"word": "启动家庭智能门锁并设置为自动解锁模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机升高至120米以避开障碍物。", "type": "B", "language": "zh"}
+{"word": "启动智能加湿器并调整至中等湿度。", "type": "B", "language": "zh"}
+{"word": "为什么地球上的水总是保持循环流动？", "type": "D", "language": "zh"}
+{"word": "推荐一些关于时间管理的好用工具。", "type": "D", "language": "zh"}
+{"word": "为什么某些行星有大气层而其他行星没有？", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合初学者的财务计划？", "type": "D", "language": "zh"}
+{"word": "为什么太空中没有空气会导致无法传播声音？", "type": "D", "language": "zh"}
+{"word": "未来是否可能用AI技术改善农业生产力？", "type": "D", "language": "zh"}
+{"word": "为什么植物在缺少阳光时会变得枯萎？", "type": "D", "language": "zh"}
+{"word": "如何通过日常小习惯提高生活质量？", "type": "D", "language": "zh"}
+{"word": "推荐一部适合青少年观看的纪录片。", "type": "D", "language": "zh"}
+{"word": "为什么宇宙膨胀速度会逐渐加快？", "type": "D", "language": "zh"}
+{"word": "提供一些简单的技巧来改善公共演讲能力。", "type": "D", "language": "zh"}
+{"word": "为什么某些鸟类在冬天会迁徙？", "type": "D", "language": "zh"}
+{"word": "未来人工智能能否完全替代人类进行创作？", "type": "D", "language": "zh"}
+{"word": "为什么大部分的彗星在靠近太阳时会变亮？", "type": "D", "language": "zh"}
+{"word": "推荐一款高效学习新语言的移动App。", "type": "D", "language": "zh"}
+{"word": "Adjust the home theater volume to 50% output level.", "type": "B", "language": "en"}
+{"word": "Set the kitchen smart oven to 150 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Stop the drone's automatic task and switch to manual mode.", "type": "B", "language": "en"}
+{"word": "Switch the living room TV to game mode.", "type": "B", "language": "en"}
+{"word": "Start the dishwasher and select energy-saving wash mode.", "type": "B", "language": "en"}
+{"word": "Set the drone to fixed-point tracking mode to follow a target.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom air conditioner temperature to 24 degrees Celsius and enable fan mode.", "type": "B", "language": "en"}
+{"word": "Activate the smart home door lock and set it to automatic unlocking mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to ascend to 120 meters to avoid obstacles.", "type": "B", "language": "en"}
+{"word": "Start the smart humidifier and set it to medium humidity.", "type": "B", "language": "en"}
+{"word": "Why does water on Earth continuously cycle and flow?", "type": "D", "language": "en"}
+{"word": "Recommend some effective tools for time management.", "type": "D", "language": "en"}
+{"word": "Why do some planets have atmospheres while others do not?", "type": "D", "language": "en"}
+{"word": "How can one design a financial plan suitable for beginners?", "type": "D", "language": "en"}
+{"word": "Why does the absence of air in space prevent the propagation of sound?", "type": "D", "language": "en"}
+{"word": "Could AI technology improve agricultural productivity in the future?", "type": "D", "language": "en"}
+{"word": "Why do plants wilt when deprived of sunlight?", "type": "D", "language": "en"}
+{"word": "How can daily small habits enhance the quality of life?", "type": "D", "language": "en"}
+{"word": "Recommend a documentary suitable for teenagers.", "type": "D", "language": "en"}
+{"word": "Why is the universe's expansion accelerating over time?", "type": "D", "language": "en"}
+{"word": "Provide simple tips to improve public speaking skills.", "type": "D", "language": "en"}
+{"word": "Why do some birds migrate in winter?", "type": "D", "language": "en"}
+{"word": "Could artificial intelligence fully replace humans in creative tasks?", "type": "D", "language": "en"}
+{"word": "Why do most comets brighten as they approach the Sun?", "type": "D", "language": "en"}
+{"word": "Recommend an efficient mobile app for learning a new language.", "type": "D", "language": "en"}
+{"word": "如何利用碎片时间完成一个短期目标？", "type": "D", "language": "zh"}
+{"word": "为什么深海区域的压力如此之高？", "type": "D", "language": "zh"}
+{"word": "未来是否可能实现完全可持续的交通系统？", "type": "D", "language": "zh"}
+{"word": "为什么火山喷发时会释放出大量二氧化硫？", "type": "D", "language": "zh"}
+{"word": "如何快速掌握一种全新的技能？", "type": "D", "language": "zh"}
+{"word": "搜索无人机拍摄区域中是否有野生动物活动。", "type": "A", "language": "zh"}
+{"word": "帮我确认冰箱的底层是否还剩下一瓶牛奶。", "type": "A", "language": "zh"}
+{"word": "找到书房角落里的备用插线板放在哪里。", "type": "A", "language": "zh"}
+{"word": "搜索家里是否遗落了一只袜子。", "type": "A", "language": "zh"}
+{"word": "查找无人机视野中最近的一片农田。", "type": "A", "language": "zh"}
+{"word": "确认附近有没有营业的咖啡馆。", "type": "A", "language": "zh"}
+{"word": "找到卧室抽屉里是否还有备用手机壳。", "type": "A", "language": "zh"}
+{"word": "搜索家中储物间里的箱子是否有空余空间。", "type": "A", "language": "zh"}
+{"word": "确认无人机画面中是否有道路施工标志。", "type": "A", "language": "zh"}
+{"word": "查找阳台的花盆里是否还有未枯萎的植物。", "type": "A", "language": "zh"}
+{"word": "找到无人机视野中最接近山顶的区域。", "type": "A", "language": "zh"}
+{"word": "确认会议室内是否还存放了备用白板笔。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有快递驿站并提供联系方式。", "type": "A", "language": "zh"}
+{"word": "找到冰箱里的冷藏鸡蛋数量是否足够。", "type": "A", "language": "zh"}
+{"word": "确认花园角落是否有需要修剪的树枝。", "type": "A", "language": "zh"}
+{"word": "搜索无人机画面中是否有明显的风力涡轮机。", "type": "A", "language": "zh"}
+{"word": "帮我查找书桌上的笔记本电脑是否开机。", "type": "A", "language": "zh"}
+{"word": "搜索厨房橱柜里是否还存有备用调料包。", "type": "A", "language": "zh"}
+{"word": "确认冰箱冷冻区里是否有鱼肉未解冻。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航拍画面中是否有山间小溪。", "type": "A", "language": "zh"}
+{"word": "启动无人机并保持在100米高度进行定点拍摄。", "type": "B", "language": "zh"}
+{"word": "打开家中的电饭煲并设置为煮粥模式。", "type": "B", "language": "zh"}
+{"word": "调整卧室空调温度为22摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机自动返航并降落在指定坐标。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清扫阳台区域。", "type": "B", "language": "zh"}
+{"word": "调节客厅灯光至暖白模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机在道路上方进行一段全景拍摄。", "type": "B", "language": "zh"}
+{"word": "How can one utilize spare time to complete a short-term goal?", "type": "D", "language": "en"}
+{"word": "Why is the pressure so high in deep-sea regions?", "type": "D", "language": "en"}
+{"word": "Is it possible to achieve a fully sustainable transportation system in the future?", "type": "D", "language": "en"}
+{"word": "Why do volcanic eruptions release large amounts of sulfur dioxide?", "type": "D", "language": "en"}
+{"word": "How can one quickly master a completely new skill?", "type": "D", "language": "en"}
+{"word": "Search if there is any wildlife activity in the drone's captured area.", "type": "A", "language": "en"}
+{"word": "Check if there is a bottle of milk left in the bottom layer of the refrigerator.", "type": "A", "language": "en"}
+{"word": "Find where the spare power strip is stored in the study corner.", "type": "A", "language": "en"}
+{"word": "Search if a sock has been left behind in the house.", "type": "A", "language": "en"}
+{"word": "Locate the nearest farmland in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any open cafes nearby.", "type": "A", "language": "en"}
+{"word": "Check if there are spare phone cases in the bedroom drawer.", "type": "A", "language": "en"}
+{"word": "Search if there is empty space in the boxes in the storage room.", "type": "A", "language": "en"}
+{"word": "Confirm if there are road construction signs in the drone footage.", "type": "A", "language": "en"}
+{"word": "Check if there are still living plants in the balcony pots.", "type": "A", "language": "en"}
+{"word": "Locate the area closest to the mountain top in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Confirm if there are spare whiteboard markers in the meeting room.", "type": "A", "language": "en"}
+{"word": "Search for nearby courier stations and provide contact information.", "type": "A", "language": "en"}
+{"word": "Check if there are enough refrigerated eggs in the refrigerator.", "type": "A", "language": "en"}
+{"word": "Confirm if there are branches needing trimming in the garden corner.", "type": "A", "language": "en"}
+{"word": "Search if there are visible wind turbines in the drone footage.", "type": "A", "language": "en"}
+{"word": "Check if the laptop on the desk is powered on.", "type": "A", "language": "en"}
+{"word": "Search if there are spare seasoning packets in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Confirm if there is frozen fish in the freezer that hasn’t been thawed.", "type": "A", "language": "en"}
+{"word": "Search if there is a mountain stream in the drone’s aerial footage.", "type": "A", "language": "en"}
+{"word": "Launch the drone and maintain a height of 100 meters for fixed-point shooting.", "type": "B", "language": "en"}
+{"word": "Turn on the rice cooker and set it to porridge mode.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom air conditioner temperature to 22 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to automatically return and land at a designated coordinate.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum to clean the balcony area.", "type": "B", "language": "en"}
+{"word": "Set the living room lights to warm white mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to perform a panoramic shoot over the road.", "type": "B", "language": "en"}
+{"word": "开启家庭影院系统并播放最新电影预告片。", "type": "B", "language": "zh"}
+{"word": "打开卧室窗帘让自然光进入。", "type": "B", "language": "zh"}
+{"word": "启动智能烤箱并设置烘焙时间为30分钟。", "type": "B", "language": "zh"}
+{"word": "调整无人机的摄像头至正下方拍摄角度。", "type": "B", "language": "zh"}
+{"word": "打开卧室的台灯并调节到阅读亮度。", "type": "B", "language": "zh"}
+{"word": "将电视音量降低至最低以避免打扰他人。", "type": "B", "language": "zh"}
+{"word": "启动热水器并预设水温为50摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机绕建筑物逆时针环绕拍摄一圈。", "type": "B", "language": "zh"}
+{"word": "打开洗衣机并设置为冷水清洗模式。", "type": "B", "language": "zh"}
+{"word": "调整无人机飞行至安全模式以避开障碍物。", "type": "B", "language": "zh"}
+{"word": "启动厨房的电磁炉并设置为小火模式。", "type": "B", "language": "zh"}
+{"word": "将音响播放的背景音乐切换为轻音乐。", "type": "B", "language": "zh"}
+{"word": "停止所有家中运行的智能设备并切换为待机模式。", "type": "B", "language": "zh"}
+{"word": "为什么地球上的四季更替会有所不同？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合初学者的写作工具。", "type": "D", "language": "zh"}
+{"word": "为什么银河系的中心区域有超大质量黑洞？", "type": "D", "language": "zh"}
+{"word": "如何制定一个可行的个人发展计划？", "type": "D", "language": "zh"}
+{"word": "为什么深海中无法直射阳光？", "type": "D", "language": "zh"}
+{"word": "人类是否可能通过AI技术大幅延长寿命？", "type": "D", "language": "zh"}
+{"word": "为什么植物的叶子会变黄？", "type": "D", "language": "zh"}
+{"word": "提供一些有效的技巧来克服拖延症。", "type": "D", "language": "zh"}
+{"word": "推荐一款可以帮助孩子学习编程的应用。", "type": "D", "language": "zh"}
+{"word": "为什么地球磁场的强度会有所变化？", "type": "D", "language": "zh"}
+{"word": "未来是否可能让无人机代替快递员？", "type": "D", "language": "zh"}
+{"word": "为什么极地地区的动物可以耐受低温？", "type": "D", "language": "zh"}
+{"word": "如何在繁忙的日常中保持高效学习？", "type": "D", "language": "zh"}
+{"word": "为什么月球的表面布满陨石坑？", "type": "D", "language": "zh"}
+{"word": "推荐一本关于未来科技趋势的书籍。", "type": "D", "language": "zh"}
+{"word": "为什么火星的气候比地球更恶劣？", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合全家使用的日程表？", "type": "D", "language": "zh"}
+{"word": "为什么宇航员在太空中会经历骨密度流失？", "type": "D", "language": "zh"}
+{"word": "未来是否可能实现完全无污染的能源生产？", "type": "D", "language": "zh"}
+{"word": "提供一些技巧来快速掌握一门新技能。", "type": "D", "language": "zh"}
+{"word": "帮我确认书房的角落里是否存放了一台旧打印机。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄画面中是否有湖泊或水源。", "type": "A", "language": "zh"}
+{"word": "找到卧室衣柜中是否还有备用的枕头套。", "type": "A", "language": "zh"}
+{"word": "查找餐厅的桌子下是否有掉落的纸巾。", "type": "A", "language": "zh"}
+{"word": "搜索阳台上是否存放了未拆封的快递。", "type": "A", "language": "zh"}
+{"word": "Activate the home theater system and play the latest movie trailers.", "type": "B", "language": "en"}
+{"word": "Open the bedroom curtains to let natural light in.", "type": "B", "language": "en"}
+{"word": "Start the smart oven and set the baking time to 30 minutes.", "type": "B", "language": "en"}
+{"word": "Adjust the drone camera to a directly downward shooting angle.", "type": "B", "language": "en"}
+{"word": "Turn on the bedside lamp in the bedroom and set it to reading brightness.", "type": "B", "language": "en"}
+{"word": "Lower the TV volume to the minimum to avoid disturbing others.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and preset the temperature to 50 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to circle counterclockwise around the building for filming.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and set it to cold water wash mode.", "type": "B", "language": "en"}
+{"word": "Adjust the drone to safe flight mode to avoid obstacles.", "type": "B", "language": "en"}
+{"word": "Activate the kitchen induction cooker and set it to low heat mode.", "type": "B", "language": "en"}
+{"word": "Switch the background music on the sound system to light music.", "type": "B", "language": "en"}
+{"word": "Stop all running smart devices in the house and switch to standby mode.", "type": "B", "language": "en"}
+{"word": "Why do the seasonal changes on Earth vary?", "type": "D", "language": "en"}
+{"word": "Recommend some beginner-friendly writing tools.", "type": "D", "language": "en"}
+{"word": "Why is there a supermassive black hole at the center of the Milky Way?", "type": "D", "language": "en"}
+{"word": "How can one create a feasible personal development plan?", "type": "D", "language": "en"}
+{"word": "Why can’t sunlight penetrate directly into the deep sea?", "type": "D", "language": "en"}
+{"word": "Can AI technology significantly extend human lifespan?", "type": "D", "language": "en"}
+{"word": "Why do plant leaves turn yellow?", "type": "D", "language": "en"}
+{"word": "Provide some effective tips to overcome procrastination.", "type": "D", "language": "en"}
+{"word": "Recommend an app to help kids learn programming.", "type": "D", "language": "en"}
+{"word": "Why does the Earth's magnetic field strength vary?", "type": "D", "language": "en"}
+{"word": "Could drones replace delivery personnel in the future?", "type": "D", "language": "en"}
+{"word": "Why can polar animals withstand extremely low temperatures?", "type": "D", "language": "en"}
+{"word": "How can one maintain efficient learning in a busy daily schedule?", "type": "D", "language": "en"}
+{"word": "Why is the Moon's surface covered with craters?", "type": "D", "language": "en"}
+{"word": "Recommend a book about future technology trends.", "type": "D", "language": "en"}
+{"word": "Why is Mars' climate harsher than Earth’s?", "type": "D", "language": "en"}
+{"word": "How can one design a schedule suitable for the entire family?", "type": "D", "language": "en"}
+{"word": "Why do astronauts experience bone density loss in space?", "type": "D", "language": "en"}
+{"word": "Could completely pollution-free energy production be achieved in the future?", "type": "D", "language": "en"}
+{"word": "Provide some tips to quickly master a new skill.", "type": "D", "language": "en"}
+{"word": "Check if there is an old printer stored in the study corner.", "type": "A", "language": "en"}
+{"word": "Search if there is a lake or water source visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Find if there are spare pillowcases in the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Check if there are any tissues dropped under the dining table.", "type": "A", "language": "en"}
+{"word": "Search if there are any unopened parcels stored on the balcony.", "type": "A", "language": "en"}
+{"word": "查找附近的便利店并提供营业时间。", "type": "A", "language": "zh"}
+{"word": "确认厨房橱柜中是否还有咖啡豆。", "type": "A", "language": "zh"}
+{"word": "搜索无人机画面中是否出现了指定标志物。", "type": "A", "language": "zh"}
+{"word": "帮我查找家中储物间是否有空余的收纳箱。", "type": "A", "language": "zh"}
+{"word": "确认冰箱冷藏区是否存有未开封的果汁。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有开放的公共游泳池。", "type": "A", "language": "zh"}
+{"word": "找到卧室抽屉中是否有备用手表电池。", "type": "A", "language": "zh"}
+{"word": "确认书桌上的灯光开关是否已经关闭。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有登山的行人。", "type": "A", "language": "zh"}
+{"word": "找到厨房中是否还有剩余的餐巾纸。", "type": "A", "language": "zh"}
+{"word": "查找花园里是否有未采摘的成熟水果。", "type": "A", "language": "zh"}
+{"word": "确认无人机视野中是否出现小型道路标志。", "type": "A", "language": "zh"}
+{"word": "搜索附近的汽车维修店并提供电话。", "type": "A", "language": "zh"}
+{"word": "查找无人机拍摄范围内的车辆停放数量。", "type": "A", "language": "zh"}
+{"word": "找到冰箱的冷冻区是否还有剩余冰块。", "type": "A", "language": "zh"}
+{"word": "启动无人机并进行一段高空俯瞰拍摄。", "type": "B", "language": "zh"}
+{"word": "打开家庭影院系统并切换至游戏模式。", "type": "B", "language": "zh"}
+{"word": "将卧室的灯光亮度调低至30%。", "type": "B", "language": "zh"}
+{"word": "控制无人机以2米/秒的速度前进。", "type": "B", "language": "zh"}
+{"word": "调整冰箱冷藏区温度至4摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人并设定清洁范围为客厅。", "type": "B", "language": "zh"}
+{"word": "控制无人机绕目标进行逆时针环绕拍摄。", "type": "B", "language": "zh"}
+{"word": "打开书房的窗帘以便通风透光。", "type": "B", "language": "zh"}
+{"word": "将音响系统切换至播放白噪音以帮助睡眠。", "type": "B", "language": "zh"}
+{"word": "启动烤箱并预热至200摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机飞行至建筑物顶部拍摄一张照片。", "type": "B", "language": "zh"}
+{"word": "调节卧室空调温度为26摄氏度。", "type": "B", "language": "zh"}
+{"word": "将洗衣机设置为深度清洗模式并启动。", "type": "B", "language": "zh"}
+{"word": "停止无人机当前任务并切换至待命模式。", "type": "B", "language": "zh"}
+{"word": "开启家庭安防系统的夜间模式。", "type": "B", "language": "zh"}
+{"word": "控制电视播放最新的体育赛事直播。", "type": "B", "language": "zh"}
+{"word": "将无人机摄像头调整至广角模式进行拍摄。", "type": "B", "language": "zh"}
+{"word": "打开厨房的电饭煲并设置为保温模式。", "type": "B", "language": "zh"}
+{"word": "控制窗帘系统完全关闭以阻挡阳光。", "type": "B", "language": "zh"}
+{"word": "调整智能灯光颜色至暖黄色，适合放松。", "type": "B", "language": "zh"}
+{"word": "为什么火星的气候与地球如此不同？", "type": "D", "language": "zh"}
+{"word": "Search for nearby convenience stores and provide their operating hours.", "type": "A", "language": "en"}
+{"word": "Confirm if there are coffee beans left in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Search if the specified marker appears in the drone footage.", "type": "A", "language": "en"}
+{"word": "Check if there are empty storage boxes in the home storage room.", "type": "A", "language": "en"}
+{"word": "Confirm if there is any unopened juice in the refrigerator’s cooling compartment.", "type": "A", "language": "en"}
+{"word": "Search if there is an open public swimming pool nearby.", "type": "A", "language": "en"}
+{"word": "Find if there are spare watch batteries in the bedroom drawer.", "type": "A", "language": "en"}
+{"word": "Confirm if the desk lamp switch is turned off.", "type": "A", "language": "en"}
+{"word": "Search if there are any hikers visible in the drone’s field of view.", "type": "A", "language": "en"}
+{"word": "Check if there are leftover napkins in the kitchen.", "type": "A", "language": "en"}
+{"word": "Search if there are any ripe fruits in the garden that haven’t been picked.", "type": "A", "language": "en"}
+{"word": "Confirm if there are small road signs in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Search for nearby car repair shops and provide their contact numbers.", "type": "A", "language": "en"}
+{"word": "Count the number of parked vehicles in the drone’s coverage area.", "type": "A", "language": "en"}
+{"word": "Check if there are any ice cubes left in the freezer.", "type": "A", "language": "en"}
+{"word": "Launch the drone and perform a high-altitude overlook shot.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system and switch to game mode.", "type": "B", "language": "en"}
+{"word": "Dim the bedroom lights to 30% brightness.", "type": "B", "language": "en"}
+{"word": "Control the drone to move forward at a speed of 2 meters per second.", "type": "B", "language": "en"}
+{"word": "Set the refrigerator’s cooling compartment temperature to 4 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum and set the cleaning area to the living room.", "type": "B", "language": "en"}
+{"word": "Control the drone to perform a counterclockwise circular shot around the target.", "type": "B", "language": "en"}
+{"word": "Open the study curtains for ventilation and light.", "type": "B", "language": "en"}
+{"word": "Switch the sound system to play white noise to aid sleep.", "type": "B", "language": "en"}
+{"word": "Preheat the oven to 200 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to fly to the top of a building and take a photo.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air conditioner temperature to 26 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Set the washing machine to deep clean mode and start it.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s current task and switch to standby mode.", "type": "B", "language": "en"}
+{"word": "Activate the home security system’s night mode.", "type": "B", "language": "en"}
+{"word": "Control the TV to play the latest live sports events.", "type": "B", "language": "en"}
+{"word": "Adjust the drone camera to wide-angle mode for shooting.", "type": "B", "language": "en"}
+{"word": "Turn on the rice cooker in the kitchen and set it to keep warm mode.", "type": "B", "language": "en"}
+{"word": "Close the curtain system completely to block sunlight.", "type": "B", "language": "en"}
+{"word": "Adjust the smart lights to warm yellow, suitable for relaxation.", "type": "B", "language": "en"}
+{"word": "Why is Mars' climate so different from Earth’s?", "type": "D", "language": "en"}
+{"word": "推荐几部关于自然界奇观的纪录片。", "type": "D", "language": "zh"}
+{"word": "为什么地球上有些湖泊会变成粉红色？", "type": "D", "language": "zh"}
+{"word": "如何利用AI技术来提高生产力？", "type": "D", "language": "zh"}
+{"word": "为什么太空探索对地球上的人类有重要意义？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合学生使用的在线学习工具。", "type": "D", "language": "zh"}
+{"word": "为什么深海中的生物会发光？", "type": "D", "language": "zh"}
+{"word": "如何设计一个短期但高效的锻炼计划？", "type": "D", "language": "zh"}
+{"word": "人类是否有可能在未来完全克服疾病？", "type": "D", "language": "zh"}
+{"word": "为什么北极的冰川正在加速融化？", "type": "D", "language": "zh"}
+{"word": "未来无人机是否可以完全自主飞行？", "type": "D", "language": "zh"}
+{"word": "为什么月球上没有液态水？", "type": "D", "language": "zh"}
+{"word": "推荐一些可以培养创新思维的课程或书籍。", "type": "D", "language": "zh"}
+{"word": "为什么宇宙中存在如此多的暗物质？", "type": "D", "language": "zh"}
+{"word": "如何通过规划时间来提高学习效率？", "type": "D", "language": "zh"}
+{"word": "为什么宇航员在太空中会出现体液分布异常？", "type": "D", "language": "zh"}
+{"word": "提供一些适合初学者的冥想方法。", "type": "D", "language": "zh"}
+{"word": "未来是否可能制造完全可持续的建筑材料？", "type": "D", "language": "zh"}
+{"word": "为什么地球的自转速度并不是恒定的？", "type": "D", "language": "zh"}
+{"word": "如何通过心理学方法提升自我控制能力？", "type": "D", "language": "zh"}
+{"word": "搜索无人机视野中的是否有沙滩区域。", "type": "A", "language": "zh"}
+{"word": "确认卧室衣柜里是否存放了备用的睡衣。", "type": "A", "language": "zh"}
+{"word": "找到餐桌下是否有掉落的纸巾盒。", "type": "A", "language": "zh"}
+{"word": "帮我确认书房里的电脑充电器是否已插好。", "type": "A", "language": "zh"}
+{"word": "搜索家附近是否有宠物公园。", "type": "A", "language": "zh"}
+{"word": "确认花园角落里的灌木是否需要修剪。", "type": "A", "language": "zh"}
+{"word": "找到厨房里的备用锅盖存放位置。", "type": "A", "language": "zh"}
+{"word": "搜索冰箱冷藏室中是否有剩余的鸡蛋。", "type": "A", "language": "zh"}
+{"word": "确认无人机拍摄画面中是否有步行道。", "type": "A", "language": "zh"}
+{"word": "查找我上次用过的文件是否还在桌面文件夹中。", "type": "A", "language": "zh"}
+{"word": "搜索阳台上是否放有干衣夹。", "type": "A", "language": "zh"}
+{"word": "Recommend some documentaries about natural wonders.", "type": "D", "language": "en"}
+{"word": "Why do some lakes on Earth turn pink?", "type": "D", "language": "en"}
+{"word": "How can AI technology be used to increase productivity?", "type": "D", "language": "en"}
+{"word": "Why is space exploration important for people on Earth?", "type": "D", "language": "en"}
+{"word": "Recommend some online learning tools suitable for students.", "type": "D", "language": "en"}
+{"word": "Why do some deep-sea creatures glow?", "type": "D", "language": "en"}
+{"word": "How can one design a short-term but effective workout plan?", "type": "D", "language": "en"}
+{"word": "Is it possible for humans to completely overcome diseases in the future?", "type": "D", "language": "en"}
+{"word": "Why are glaciers in the Arctic melting at an accelerated rate?", "type": "D", "language": "en"}
+{"word": "Could drones achieve fully autonomous flight in the future?", "type": "D", "language": "en"}
+{"word": "Why is there no liquid water on the Moon?", "type": "D", "language": "en"}
+{"word": "Recommend some courses or books to develop innovative thinking.", "type": "D", "language": "en"}
+{"word": "Why is there so much dark matter in the universe?", "type": "D", "language": "en"}
+{"word": "How can time management improve learning efficiency?", "type": "D", "language": "en"}
+{"word": "Why do astronauts experience fluid redistribution in space?", "type": "D", "language": "en"}
+{"word": "Provide some meditation methods suitable for beginners.", "type": "D", "language": "en"}
+{"word": "Is it possible to create fully sustainable building materials in the future?", "type": "D", "language": "en"}
+{"word": "Why is Earth’s rotation speed not constant?", "type": "D", "language": "en"}
+{"word": "How can psychological methods enhance self-control?", "type": "D", "language": "en"}
+{"word": "Search if there is a beach visible in the drone’s field of view.", "type": "A", "language": "en"}
+{"word": "Check if there are spare pajamas stored in the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Find if there is a tissue box that fell under the dining table.", "type": "A", "language": "en"}
+{"word": "Confirm if the computer charger in the study is plugged in.", "type": "A", "language": "en"}
+{"word": "Search if there is a pet park near my home.", "type": "A", "language": "en"}
+{"word": "Check if the shrubs in the garden corner need trimming.", "type": "A", "language": "en"}
+{"word": "Find where the spare pot lid is stored in the kitchen.", "type": "A", "language": "en"}
+{"word": "Check if there are any leftover eggs in the refrigerator's cooling compartment.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any walking paths visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Search if the file I last used is still in the desktop folder.", "type": "A", "language": "en"}
+{"word": "Search if there are any clothes pins on the balcony.", "type": "A", "language": "en"}
+{"word": "查找公园内是否有可供休息的长椅。", "type": "A", "language": "zh"}
+{"word": "找到厨房橱柜里是否还有剩余的油瓶。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有提供鲜花速递的商店。", "type": "A", "language": "zh"}
+{"word": "帮我确认无人机航拍中是否有电动车通行。", "type": "A", "language": "zh"}
+{"word": "找到冰箱冷冻区是否还有可用的冷冻肉。", "type": "A", "language": "zh"}
+{"word": "搜索书架上是否有一本封面为蓝色的书。", "type": "A", "language": "zh"}
+{"word": "确认无人机拍摄画面中是否有流动的河水。", "type": "A", "language": "zh"}
+{"word": "查找会议桌下是否遗留了水瓶或垃圾。", "type": "A", "language": "zh"}
+{"word": "搜索公园中的小型喷泉是否运行正常。", "type": "A", "language": "zh"}
+{"word": "启动无人机并设置为定点拍摄模式。", "type": "B", "language": "zh"}
+{"word": "打开厨房的微波炉并设置时间为2分钟。", "type": "B", "language": "zh"}
+{"word": "控制卧室灯光调节至最亮模式。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清扫餐厅区域。", "type": "B", "language": "zh"}
+{"word": "将空调调整为制热模式并设置为26摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机在树冠上方盘旋进行俯拍。", "type": "B", "language": "zh"}
+{"word": "启动音响播放柔和的轻音乐。", "type": "B", "language": "zh"}
+{"word": "将冰箱的冷冻室温度降至最低模式。", "type": "B", "language": "zh"}
+{"word": "打开书房的智能台灯并设置为冷光模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机向东飞行100米并悬停拍摄。", "type": "B", "language": "zh"}
+{"word": "启动热水器并保持恒温45摄氏度。", "type": "B", "language": "zh"}
+{"word": "调节卧室空调至20摄氏度的快速制冷模式。", "type": "B", "language": "zh"}
+{"word": "将家庭影院音量提升至60%。", "type": "B", "language": "zh"}
+{"word": "控制无人机摄像头放大目标并调整焦距。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并选择烘干功能。", "type": "B", "language": "zh"}
+{"word": "打开厨房电饭煲并设置为蒸煮模式。", "type": "B", "language": "zh"}
+{"word": "控制电视切换到新闻频道。", "type": "B", "language": "zh"}
+{"word": "将智能窗帘完全拉开以便通风。", "type": "B", "language": "zh"}
+{"word": "启动加湿器并设置湿度为55%。", "type": "B", "language": "zh"}
+{"word": "控制无人机自动返回并降落在出发点。", "type": "B", "language": "zh"}
+{"word": "为什么宇宙中存在暗能量和暗物质？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合学生党使用的日程管理App。", "type": "D", "language": "zh"}
+{"word": "为什么植物在潮湿环境中更容易存活？", "type": "D", "language": "zh"}
+{"word": "如何通过科学饮食提高身体免疫力？", "type": "D", "language": "zh"}
+{"word": "为什么某些星球会有大量的卫星？", "type": "D", "language": "zh"}
+{"word": "人类是否可能通过技术改变气候？", "type": "D", "language": "zh"}
+{"word": "为什么银河系的形状是一个旋涡状？", "type": "D", "language": "zh"}
+{"word": "推荐几部适合家庭观影的经典电影。", "type": "D", "language": "zh"}
+{"word": "Check if there are benches available for resting in the park.", "type": "A", "language": "en"}
+{"word": "Find if there are any oil bottles left in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Search if there are any stores nearby offering flower delivery services.", "type": "A", "language": "en"}
+{"word": "Confirm if there are electric vehicles passing in the drone’s aerial footage.", "type": "A", "language": "en"}
+{"word": "Check if there is usable frozen meat in the refrigerator’s freezer compartment.", "type": "A", "language": "en"}
+{"word": "Search if there is a book with a blue cover on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Confirm if there is flowing water in the river visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Check if there are any water bottles or trash left under the meeting table.", "type": "A", "language": "en"}
+{"word": "Search if the small fountains in the park are functioning properly.", "type": "A", "language": "en"}
+{"word": "Launch the drone and set it to fixed-point shooting mode.", "type": "B", "language": "en"}
+{"word": "Turn on the microwave in the kitchen and set the timer for 2 minutes.", "type": "B", "language": "en"}
+{"word": "Adjust the bedroom lights to the brightest mode.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum to clean the dining area.", "type": "B", "language": "en"}
+{"word": "Set the air conditioner to heating mode and 26 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the drone to hover above the treetops for an overhead shot.", "type": "B", "language": "en"}
+{"word": "Activate the sound system to play soothing light music.", "type": "B", "language": "en"}
+{"word": "Set the freezer compartment of the refrigerator to the lowest temperature mode.", "type": "B", "language": "en"}
+{"word": "Turn on the smart desk lamp in the study and set it to cool light mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to fly 100 meters east and hover for shooting.", "type": "B", "language": "en"}
+{"word": "Start the water heater and maintain a constant 45 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air conditioner to rapid cooling mode at 20 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Increase the home theater volume to 60%.", "type": "B", "language": "en"}
+{"word": "Control the drone camera to zoom in on the target and adjust the focus.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and select the drying function.", "type": "B", "language": "en"}
+{"word": "Turn on the rice cooker in the kitchen and set it to steam mode.", "type": "B", "language": "en"}
+{"word": "Switch the TV to the news channel.", "type": "B", "language": "en"}
+{"word": "Fully open the smart curtains for ventilation.", "type": "B", "language": "en"}
+{"word": "Start the humidifier and set the humidity to 55%.", "type": "B", "language": "en"}
+{"word": "Control the drone to automatically return and land at the starting point.", "type": "B", "language": "en"}
+{"word": "Why do dark energy and dark matter exist in the universe?", "type": "D", "language": "en"}
+{"word": "Recommend some schedule management apps suitable for students.", "type": "D", "language": "en"}
+{"word": "Why do plants thrive better in humid environments?", "type": "D", "language": "en"}
+{"word": "How can scientific diets boost the body’s immune system?", "type": "D", "language": "en"}
+{"word": "Why do some planets have a large number of moons?", "type": "D", "language": "en"}
+{"word": "Could humans change the climate through technology?", "type": "D", "language": "en"}
+{"word": "Why is the Milky Way spiral-shaped?", "type": "D", "language": "en"}
+{"word": "Recommend some classic movies suitable for family viewing.", "type": "D", "language": "en"}
+{"word": "如何设计一个适合长期使用的工作计划表？", "type": "D", "language": "zh"}
+{"word": "为什么地球上的海水是咸的而湖水是淡的？", "type": "D", "language": "zh"}
+{"word": "未来是否可能制造完全自动化的建筑？", "type": "D", "language": "zh"}
+{"word": "为什么月球上没有空气？", "type": "D", "language": "zh"}
+{"word": "推荐一些提高记忆力的锻炼方式。", "type": "D", "language": "zh"}
+{"word": "为什么火山喷发时会释放大量火山灰？", "type": "D", "language": "zh"}
+{"word": "如何通过小习惯逐步提升个人能力？", "type": "D", "language": "zh"}
+{"word": "为什么北极和南极的气候差异显著？", "type": "D", "language": "zh"}
+{"word": "如何利用心理学来提高工作效率？", "type": "D", "language": "zh"}
+{"word": "人类是否可以通过基因技术避免衰老？", "type": "D", "language": "zh"}
+{"word": "为什么黑洞会吸收一切连光也无法逃脱？", "type": "D", "language": "zh"}
+{"word": "未来是否可能实现完全无人驾驶的城市交通？", "type": "D", "language": "zh"}
+{"word": "帮我在书房找到上次使用的便签本。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄区域中是否有可停靠的船只。", "type": "A", "language": "zh"}
+{"word": "找到客厅茶几下是否掉落了遥控器。", "type": "A", "language": "zh"}
+{"word": "确认厨房台面上是否还有干净的刀具。", "type": "A", "language": "zh"}
+{"word": "查找家附近的健身房并提供营业时间。", "type": "A", "language": "zh"}
+{"word": "搜索阳台上是否有晾晒的湿衣物。", "type": "A", "language": "zh"}
+{"word": "帮我查找卧室抽屉里的备用眼镜布。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航拍范围内是否有突出的地标建筑。", "type": "A", "language": "zh"}
+{"word": "确认花园中的灌木丛是否需要浇水。", "type": "A", "language": "zh"}
+{"word": "查找储物间里是否存放了新的灯泡。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有正在行驶的自行车。", "type": "A", "language": "zh"}
+{"word": "找到厨房的调料柜中是否有剩余的辣椒粉。", "type": "A", "language": "zh"}
+{"word": "确认会议室的角落是否摆放了垃圾桶。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有图书馆并提供开馆时间。", "type": "A", "language": "zh"}
+{"word": "找到冰箱冷藏室中是否还有未过期的酸奶。", "type": "A", "language": "zh"}
+{"word": "搜索阳台角落的花盆中是否有新发芽的植物。", "type": "A", "language": "zh"}
+{"word": "查找无人机视野中是否有显眼的广告牌。", "type": "A", "language": "zh"}
+{"word": "确认卧室衣柜的顶部是否有备用被单存放。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄画面中是否有林间小路。", "type": "A", "language": "zh"}
+{"word": "找到储物箱中是否存放了备用的雨伞。", "type": "A", "language": "zh"}
+{"word": "启动无人机并调整高度至150米进行拍摄。", "type": "B", "language": "zh"}
+{"word": "打开客厅空调并设置为送风模式。", "type": "B", "language": "zh"}
+{"word": "将卧室灯光切换至夜间柔光模式。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清扫走廊区域。", "type": "B", "language": "zh"}
+{"word": "How can one design a work schedule suitable for long-term use?", "type": "D", "language": "en"}
+{"word": "Why is seawater salty while lake water is fresh?", "type": "D", "language": "en"}
+{"word": "Is it possible to create fully automated buildings in the future?", "type": "D", "language": "en"}
+{"word": "Why is there no air on the Moon?", "type": "D", "language": "en"}
+{"word": "Recommend some exercises to improve memory.", "type": "D", "language": "en"}
+{"word": "Why do volcanic eruptions release large amounts of ash?", "type": "D", "language": "en"}
+{"word": "How can small habits gradually improve personal abilities?", "type": "D", "language": "en"}
+{"word": "Why do the Arctic and Antarctic have significant climate differences?", "type": "D", "language": "en"}
+{"word": "How can psychology be used to boost work efficiency?", "type": "D", "language": "en"}
+{"word": "Can humans avoid aging through genetic technology?", "type": "D", "language": "en"}
+{"word": "Why do black holes absorb everything, even light?", "type": "D", "language": "en"}
+{"word": "Could fully autonomous urban transportation be achieved in the future?", "type": "D", "language": "en"}
+{"word": "Help me find the notepad I last used in the study.", "type": "A", "language": "en"}
+{"word": "Search if there are any dockable boats visible in the drone’s coverage area.", "type": "A", "language": "en"}
+{"word": "Find if a remote control has fallen under the living room coffee table.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any clean knives on the kitchen counter.", "type": "A", "language": "en"}
+{"word": "Search for nearby gyms and provide their operating hours.", "type": "A", "language": "en"}
+{"word": "Check if there are wet clothes hanging on the balcony.", "type": "A", "language": "en"}
+{"word": "Help me find the spare eyeglass cloth in the bedroom drawer.", "type": "A", "language": "en"}
+{"word": "Search if there are prominent landmarks in the drone's aerial footage.", "type": "A", "language": "en"}
+{"word": "Confirm if the bushes in the garden need watering.", "type": "A", "language": "en"}
+{"word": "Check if there are new light bulbs stored in the storage room.", "type": "A", "language": "en"}
+{"word": "Search if there are bicycles in motion within the drone’s view.", "type": "A", "language": "en"}
+{"word": "Check if there is any chili powder left in the kitchen spice cabinet.", "type": "A", "language": "en"}
+{"word": "Confirm if there is a trash bin in the corner of the meeting room.", "type": "A", "language": "en"}
+{"word": "Search for nearby libraries and provide their opening hours.", "type": "A", "language": "en"}
+{"word": "Check if there is any unexpired yogurt in the refrigerator's cooling compartment.", "type": "A", "language": "en"}
+{"word": "Search if there are new sprouts in the balcony corner pots.", "type": "A", "language": "en"}
+{"word": "Check if there are noticeable billboards in the drone footage.", "type": "A", "language": "en"}
+{"word": "Confirm if there are spare bedsheets stored on top of the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Search if there are forest paths visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Check if there are spare umbrellas stored in the storage box.", "type": "A", "language": "en"}
+{"word": "Launch the drone and adjust the altitude to 150 meters for shooting.", "type": "B", "language": "en"}
+{"word": "Turn on the living room air conditioner and set it to fan mode.", "type": "B", "language": "en"}
+{"word": "Switch the bedroom lights to night soft mode.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum to clean the hallway area.", "type": "B", "language": "en"}
+{"word": "控制无人机沿设定路径拍摄一段延时视频。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并选择快洗程序。", "type": "B", "language": "zh"}
+{"word": "调节书房的灯光亮度至50%。", "type": "B", "language": "zh"}
+{"word": "将电视音量调节至静音模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机摄像头对准正东方向。", "type": "B", "language": "zh"}
+{"word": "启动热水器并设置温度为48摄氏度。", "type": "B", "language": "zh"}
+{"word": "打开窗帘并保持30%的遮光状态。", "type": "B", "language": "zh"}
+{"word": "控制无人机拍摄建筑物顶部的全景照片。", "type": "B", "language": "zh"}
+{"word": "将卧室空调温度设置为25摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动智能冰箱的速冷模式。", "type": "B", "language": "zh"}
+{"word": "将厨房的烤箱预热至200摄氏度。", "type": "B", "language": "zh"}
+{"word": "调整智能灯泡的颜色为淡蓝色。", "type": "B", "language": "zh"}
+{"word": "控制无人机围绕目标建筑顺时针环绕拍摄。", "type": "B", "language": "zh"}
+{"word": "启动音响播放轻音乐以缓解压力。", "type": "B", "language": "zh"}
+{"word": "将扫地机器人切换至拖地模式。", "type": "B", "language": "zh"}
+{"word": "停止无人机的飞行并在当前位置悬停。", "type": "B", "language": "zh"}
+{"word": "为什么宇宙的膨胀速度正在加快？", "type": "D", "language": "zh"}
+{"word": "推荐一款适合儿童使用的数学学习App。", "type": "D", "language": "zh"}
+{"word": "为什么地球上有些河流会倒流？", "type": "D", "language": "zh"}
+{"word": "如何通过改善睡眠质量来提高专注力？", "type": "D", "language": "zh"}
+{"word": "为什么火山口附近的土壤特别肥沃？", "type": "D", "language": "zh"}
+{"word": "推荐几本关于经济学基础的好书。", "type": "D", "language": "zh"}
+{"word": "为什么动物会形成迁徙的习惯？", "type": "D", "language": "zh"}
+{"word": "如何通过心理学方法提高公众演讲能力？", "type": "D", "language": "zh"}
+{"word": "为什么火星表面的温差如此剧烈？", "type": "D", "language": "zh"}
+{"word": "推荐一个可以帮助提高记忆力的训练App。", "type": "D", "language": "zh"}
+{"word": "为什么北极地区的冰层逐年减少？", "type": "D", "language": "zh"}
+{"word": "如何利用科学方法制定健康饮食计划？", "type": "D", "language": "zh"}
+{"word": "为什么某些星球表面布满环形山？", "type": "D", "language": "zh"}
+{"word": "推荐一个适合初学者学习摄影的网站。", "type": "D", "language": "zh"}
+{"word": "为什么海洋中的潮汐受月球引力影响最大？", "type": "D", "language": "zh"}
+{"word": "提供一些在职场中高效处理冲突的建议。", "type": "D", "language": "zh"}
+{"word": "人类是否可以在太空建立永久的生态系统？", "type": "D", "language": "zh"}
+{"word": "为什么鲸鱼能够长时间潜水不换气？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合新手编程的移动应用程序。", "type": "D", "language": "zh"}
+{"word": "为什么太阳看起来比其他恒星更大更亮？", "type": "D", "language": "zh"}
+{"word": "帮我找出无人机视野中靠近山脚的区域。", "type": "A", "language": "zh"}
+{"word": "确认家中餐桌上是否还有遗落的杯子。", "type": "A", "language": "zh"}
+{"word": "Control the drone to record a time-lapse video along a set path.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and select the quick wash program.", "type": "B", "language": "en"}
+{"word": "Adjust the brightness of the study lights to 50%.", "type": "B", "language": "en"}
+{"word": "Set the TV volume to mute mode.", "type": "B", "language": "en"}
+{"word": "Direct the drone camera to face due east.", "type": "B", "language": "en"}
+{"word": "Start the water heater and set the temperature to 48 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Open the curtains and maintain 30% shading.", "type": "B", "language": "en"}
+{"word": "Control the drone to capture panoramic photos of the building's rooftop.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air conditioner temperature to 25 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Activate the smart refrigerator’s quick-cooling mode.", "type": "B", "language": "en"}
+{"word": "Preheat the kitchen oven to 200 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Adjust the smart lightbulb color to light blue.", "type": "B", "language": "en"}
+{"word": "Control the drone to circle the target building clockwise for shooting.", "type": "B", "language": "en"}
+{"word": "Start the sound system to play light music to reduce stress.", "type": "B", "language": "en"}
+{"word": "Switch the robot vacuum to mopping mode.", "type": "B", "language": "en"}
+{"word": "Stop the drone’s flight and hover at its current location.", "type": "B", "language": "en"}
+{"word": "Why is the universe's expansion accelerating?", "type": "D", "language": "en"}
+{"word": "Recommend a math learning app suitable for children.", "type": "D", "language": "en"}
+{"word": "Why do some rivers on Earth flow backward?", "type": "D", "language": "en"}
+{"word": "How can improving sleep quality enhance focus?", "type": "D", "language": "en"}
+{"word": "Why is the soil near volcanic craters particularly fertile?", "type": "D", "language": "en"}
+{"word": "Recommend some good books on the basics of economics.", "type": "D", "language": "en"}
+{"word": "Why do animals develop migratory habits?", "type": "D", "language": "en"}
+{"word": "How can psychological techniques improve public speaking skills?", "type": "D", "language": "en"}
+{"word": "Why are temperature variations on Mars so extreme?", "type": "D", "language": "en"}
+{"word": "Recommend a training app that helps improve memory.", "type": "D", "language": "en"}
+{"word": "Why is the Arctic ice layer decreasing annually?", "type": "D", "language": "en"}
+{"word": "How can scientific methods be used to create a healthy diet plan?", "type": "D", "language": "en"}
+{"word": "Why are certain planets' surfaces covered with craters?", "type": "D", "language": "en"}
+{"word": "Recommend a photography learning website for beginners.", "type": "D", "language": "en"}
+{"word": "Why is the Moon's gravitational pull the main driver of ocean tides?", "type": "D", "language": "en"}
+{"word": "Provide tips for effectively handling conflicts in the workplace.", "type": "D", "language": "en"}
+{"word": "Can humans establish a permanent ecosystem in space?", "type": "D", "language": "en"}
+{"word": "Why can whales stay underwater for long periods without breathing?", "type": "D", "language": "en"}
+{"word": "Recommend some mobile apps suitable for beginner programming.", "type": "D", "language": "en"}
+{"word": "Why does the Sun appear larger and brighter than other stars?", "type": "D", "language": "en"}
+{"word": "Find the area near the mountain base visible in the drone’s footage.", "type": "A", "language": "en"}
+{"word": "Check if there are any leftover cups on the dining table at home.", "type": "A", "language": "en"}
+{"word": "搜索卧室床头柜抽屉中是否存有备用药物。", "type": "A", "language": "zh"}
+{"word": "查找花园里是否有需要清理的杂草。", "type": "A", "language": "zh"}
+{"word": "确认厨房橱柜中是否还有剩余的橄榄油。", "type": "A", "language": "zh"}
+{"word": "搜索无人机航拍画面中是否有蜿蜒的山路。", "type": "A", "language": "zh"}
+{"word": "帮我确认阳台上的储物箱是否存有未使用的种子。", "type": "A", "language": "zh"}
+{"word": "找到书架上是否还有未归类的儿童读物。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有公共停车场的标志。", "type": "A", "language": "zh"}
+{"word": "查找储藏间里是否存放了备用的旅行箱。", "type": "A", "language": "zh"}
+{"word": "确认卧室地板上是否遗留了小饰品。", "type": "A", "language": "zh"}
+{"word": "搜索阳台花架是否还有未凋谢的花朵。", "type": "A", "language": "zh"}
+{"word": "查找无人机拍摄画面中是否出现了沙滩。", "type": "A", "language": "zh"}
+{"word": "确认家中是否遗落了一双备用的运动鞋。", "type": "A", "language": "zh"}
+{"word": "搜索会议室内是否有未清理的纸杯。", "type": "A", "language": "zh"}
+{"word": "找到厨房台面上的备用调味瓶是否足够。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄范围内是否有一片空地适合降落。", "type": "A", "language": "zh"}
+{"word": "查找冰箱冷冻区是否还有未使用的冷饮。", "type": "A", "language": "zh"}
+{"word": "确认会议桌下是否还有遗落的充电器。", "type": "A", "language": "zh"}
+{"word": "搜索无人机视野中是否有显眼的红色物体。", "type": "A", "language": "zh"}
+{"word": "启动无人机并调整到20米高度巡航飞行。", "type": "B", "language": "zh"}
+{"word": "打开厨房的咖啡机并制作一杯浓缩咖啡。", "type": "B", "language": "zh"}
+{"word": "将客厅的灯光亮度调至50%。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清扫书房地板。", "type": "B", "language": "zh"}
+{"word": "调整空调至25摄氏度并开启制热模式。", "type": "B", "language": "zh"}
+{"word": "控制无人机沿直线飞行200米并拍摄照片。", "type": "B", "language": "zh"}
+{"word": "启动洗衣机并选择标准洗涤模式。", "type": "B", "language": "zh"}
+{"word": "将电视切换到在线视频应用。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院系统并播放最新的科幻电影。", "type": "B", "language": "zh"}
+{"word": "控制无人机摄像头对准北方以观察目标。", "type": "B", "language": "zh"}
+{"word": "打开书房的台灯并调节到最大亮度。", "type": "B", "language": "zh"}
+{"word": "启动热水器并设置为40摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制音响播放一首轻松的背景音乐。", "type": "B", "language": "zh"}
+{"word": "调节智能窗帘关闭至80%以减少光线。", "type": "B", "language": "zh"}
+{"word": "控制无人机进行一圈自动环绕拍摄。", "type": "B", "language": "zh"}
+{"word": "将智能冰箱切换到节能模式。", "type": "B", "language": "zh"}
+{"word": "启动厨房电饭煲并设置为煮粥程序。", "type": "B", "language": "zh"}
+{"word": "调整无人机的速度到慢速以稳定拍摄。", "type": "B", "language": "zh"}
+{"word": "打开加湿器并设置为中等湿度水平。", "type": "B", "language": "zh"}
+{"word": "停止所有智能设备的运行并切换至待机状态。", "type": "B", "language": "zh"}
+{"word": "为什么太阳系内只有地球适合生命生存？", "type": "D", "language": "zh"}
+{"word": "推荐几本适合新手的心理学入门书籍。", "type": "D", "language": "zh"}
+{"word": "为什么火星的表面温差会如此之大？", "type": "D", "language": "zh"}
+{"word": "Search if there are spare medicines in the drawer of the bedside table in the bedroom.", "type": "A", "language": "en"}
+{"word": "Check if there are weeds in the garden that need clearing.", "type": "A", "language": "en"}
+{"word": "Confirm if there is leftover olive oil in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Search if there are winding mountain roads visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Confirm if there are unused seeds stored in the balcony storage box.", "type": "A", "language": "en"}
+{"word": "Find if there are unclassified children's books on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Search if there are public parking signs visible in the drone’s view.", "type": "A", "language": "en"}
+{"word": "Check if there are spare suitcases stored in the storage room.", "type": "A", "language": "en"}
+{"word": "Confirm if there are any small accessories left on the bedroom floor.", "type": "A", "language": "en"}
+{"word": "Search if there are still blooming flowers on the balcony flower stand.", "type": "A", "language": "en"}
+{"word": "Check if there is a beach visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Confirm if there are spare sports shoes left in the house.", "type": "A", "language": "en"}
+{"word": "Search if there are uncleaned paper cups in the meeting room.", "type": "A", "language": "en"}
+{"word": "Find if there are enough spare seasoning bottles on the kitchen counter.", "type": "A", "language": "en"}
+{"word": "Search if there is an open area suitable for landing within the drone’s coverage.", "type": "A", "language": "en"}
+{"word": "Check if there are unused cold drinks in the refrigerator’s freezer compartment.", "type": "A", "language": "en"}
+{"word": "Confirm if there is a charger left under the meeting table.", "type": "A", "language": "en"}
+{"word": "Search if there are noticeable red objects visible in the drone footage.", "type": "A", "language": "en"}
+{"word": "Launch the drone and adjust it to 20 meters altitude for cruising flight.", "type": "B", "language": "en"}
+{"word": "Turn on the coffee machine in the kitchen and make an espresso.", "type": "B", "language": "en"}
+{"word": "Set the living room light brightness to 50%.", "type": "B", "language": "en"}
+{"word": "Activate the robot vacuum to clean the study floor.", "type": "B", "language": "en"}
+{"word": "Set the air conditioner to 25 degrees Celsius in heating mode.", "type": "B", "language": "en"}
+{"word": "Control the drone to fly 200 meters in a straight line and take photos.", "type": "B", "language": "en"}
+{"word": "Start the washing machine and select the standard washing mode.", "type": "B", "language": "en"}
+{"word": "Switch the TV to an online video application.", "type": "B", "language": "en"}
+{"word": "Activate the home theater system and play the latest sci-fi movie.", "type": "B", "language": "en"}
+{"word": "Direct the drone camera to face north to observe the target.", "type": "B", "language": "en"}
+{"word": "Turn on the desk lamp in the study and set it to maximum brightness.", "type": "B", "language": "en"}
+{"word": "Start the water heater and set it to 40 degrees Celsius.", "type": "B", "language": "en"}
+{"word": "Control the sound system to play a relaxing background music track.", "type": "B", "language": "en"}
+{"word": "Adjust the smart curtains to close to 80% to reduce light.", "type": "B", "language": "en"}
+{"word": "Control the drone to perform an automatic circular shooting.", "type": "B", "language": "en"}
+{"word": "Switch the smart refrigerator to energy-saving mode.", "type": "B", "language": "en"}
+{"word": "Activate the rice cooker in the kitchen and set it to porridge mode.", "type": "B", "language": "en"}
+{"word": "Adjust the drone’s speed to slow for stable shooting.", "type": "B", "language": "en"}
+{"word": "Turn on the humidifier and set it to medium humidity level.", "type": "B", "language": "en"}
+{"word": "Stop all smart devices and switch them to standby mode.", "type": "B", "language": "en"}
+{"word": "Why is Earth the only planet in the solar system suitable for life?", "type": "D", "language": "en"}
+{"word": "Recommend some beginner-friendly psychology books.", "type": "D", "language": "en"}
+{"word": "Why are temperature fluctuations on Mars so extreme?", "type": "D", "language": "en"}
+{"word": "如何通过简单的步骤提高工作效率？", "type": "D", "language": "zh"}
+{"word": "为什么某些鸟类能够长途迁徙数千公里？", "type": "D", "language": "zh"}
+{"word": "推荐一个可以帮助记忆单词的语言学习App。", "type": "D", "language": "zh"}
+{"word": "为什么北极熊只能生活在寒冷的极地环境？", "type": "D", "language": "zh"}
+{"word": "如何在有限的时间内学习一项新技能？", "type": "D", "language": "zh"}
+{"word": "推荐几款适合学生的理财管理工具。", "type": "D", "language": "zh"}
+{"word": "为什么黑洞能够吸收连光线都无法逃脱？", "type": "D", "language": "zh"}
+{"word": "如何利用心理暗示来增强自信心？", "type": "D", "language": "zh"}
+{"word": "为什么深海区域的水压会如此之高？", "type": "D", "language": "zh"}
+{"word": "推荐一些可以提高创造力的在线课程。", "type": "D", "language": "zh"}
+{"word": "为什么火山附近的植被通常更为茂盛？", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合家庭成员的周末活动计划？", "type": "D", "language": "zh"}
+{"word": "为什么地球上的季节会随着自转轴的倾斜变化？", "type": "D", "language": "zh"}
+{"word": "如何利用人工智能优化家庭日常生活？", "type": "D", "language": "zh"}
+{"word": "人类是否可以通过基因技术完全消除疾病？", "type": "D", "language": "zh"}
+{"word": "为什么某些植物在没有阳光时无法生长？", "type": "D", "language": "zh"}
+{"word": "如何在短时间内准备一次高效的演讲？", "type": "D", "language": "zh"}
+{"word": "搜索无人机视野中是否有建筑物顶部的空地。", "type": "A", "language": "zh"}
+{"word": "找到冰箱冷藏室里是否还有剩余的奶酪。", "type": "A", "language": "zh"}
+{"word": "确认书桌抽屉里是否存放了备用的U盘。", "type": "A", "language": "zh"}
+{"word": "搜索阳台上的花盆中是否种植了新的草本植物。", "type": "A", "language": "zh"}
+{"word": "查找无人机航拍画面中是否有野营的帐篷。", "type": "A", "language": "zh"}
+{"word": "帮我确认客厅茶几上是否还有饮料瓶。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄区域中是否有明显的水源。", "type": "A", "language": "zh"}
+{"word": "找到厨房台面上的菜刀是否已被清洗干净。", "type": "A", "language": "zh"}
+{"word": "查找卧室衣柜里是否还有未穿过的运动服。", "type": "A", "language": "zh"}
+{"word": "确认冰箱冷冻区是否还有足够的冰块存储。", "type": "A", "language": "zh"}
+{"word": "搜索无人机拍摄画面中是否有荒废的道路。", "type": "A", "language": "zh"}
+{"word": "帮我找到书房里的文件夹是否按类别归档。", "type": "A", "language": "zh"}
+{"word": "查找会议室内是否有多余的座椅摆放。", "type": "A", "language": "zh"}
+{"word": "搜索公园区域是否有开放的游乐场设备。", "type": "A", "language": "zh"}
+{"word": "确认厨房橱柜中是否存有备用的餐盘。", "type": "A", "language": "zh"}
+{"word": "找到花园角落是否有未使用的园艺工具。", "type": "A", "language": "zh"}
+{"word": "搜索附近是否有提供打印服务的小型工作室。", "type": "A", "language": "zh"}
+{"word": "帮我确认书架上是否存放了参考书籍。", "type": "A", "language": "zh"}
+{"word": "查找无人机拍摄范围内是否有大面积空地。", "type": "A", "language": "zh"}
+{"word": "搜索冰箱底层是否有未使用的包装食材。", "type": "A", "language": "zh"}
+{"word": "启动无人机并围绕目标区域逆时针拍摄。", "type": "B", "language": "zh"}
+{"word": "How to improve work efficiency through simple steps?", "type": "D", "language": "en"}
+{"word": "Why can some birds migrate thousands of kilometers?", "type": "D", "language": "en"}
+{"word": "Recommend a language learning app that helps with memorizing words.", "type": "D", "language": "en"}
+{"word": "Why can polar bears only live in cold polar environments?", "type": "D", "language": "en"}
+{"word": "How to learn a new skill within a limited time?", "type": "D", "language": "en"}
+{"word": "Recommend some financial management tools suitable for students.", "type": "D", "language": "en"}
+{"word": "Why can black holes absorb even light, making it impossible to escape?", "type": "D", "language": "en"}
+{"word": "How to use psychological suggestions to boost confidence?", "type": "D", "language": "en"}
+{"word": "Why is the water pressure so high in deep-sea areas?", "type": "D", "language": "en"}
+{"word": "Recommend some online courses to enhance creativity.", "type": "D", "language": "en"}
+{"word": "Why is vegetation often more lush near volcanoes?", "type": "D", "language": "en"}
+{"word": "How to design a weekend activity plan suitable for family members?", "type": "D", "language": "en"}
+{"word": "Why do Earth's seasons change with the tilt of its rotational axis?", "type": "D", "language": "en"}
+{"word": "How to utilize artificial intelligence to optimize daily family life?", "type": "D", "language": "en"}
+{"word": "Can humans completely eliminate diseases through genetic technology?", "type": "D", "language": "en"}
+{"word": "Why can't certain plants grow without sunlight?", "type": "D", "language": "en"}
+{"word": "How to prepare for an efficient speech in a short time?", "type": "D", "language": "en"}
+{"word": "Search whether there are empty spaces on top of buildings in the drone's view.", "type": "A", "language": "en"}
+{"word": "Find out if there is leftover cheese in the fridge's cooling compartment.", "type": "A", "language": "en"}
+{"word": "Confirm whether there is a spare USB drive in the desk drawer.", "type": "A", "language": "en"}
+{"word": "Search whether there are newly planted herbs in the pots on the balcony.", "type": "A", "language": "en"}
+{"word": "Check the drone aerial footage for camping tents.", "type": "A", "language": "en"}
+{"word": "Help confirm if there are beverage bottles on the living room coffee table.", "type": "A", "language": "en"}
+{"word": "Search for visible water sources in the drone's captured area.", "type": "A", "language": "en"}
+{"word": "Check if the kitchen countertop knife has been cleaned properly.", "type": "A", "language": "en"}
+{"word": "Find out if there are unworn sportswear items in the bedroom wardrobe.", "type": "A", "language": "en"}
+{"word": "Confirm whether there are enough ice cubes stored in the freezer compartment.", "type": "A", "language": "en"}
+{"word": "Search for abandoned roads in the drone footage.", "type": "A", "language": "en"}
+{"word": "Help find out if the study's folders are sorted by category.", "type": "A", "language": "en"}
+{"word": "Check if there are extra chairs placed in the meeting room.", "type": "A", "language": "en"}
+{"word": "Search the park area for open playground equipment.", "type": "A", "language": "en"}
+{"word": "Confirm whether there are spare plates in the kitchen cabinet.", "type": "A", "language": "en"}
+{"word": "Check if there are unused gardening tools in the garden corner.", "type": "A", "language": "en"}
+{"word": "Search for nearby small studios offering printing services.", "type": "A", "language": "en"}
+{"word": "Help confirm whether there are reference books on the bookshelf.", "type": "A", "language": "en"}
+{"word": "Check the drone footage for large open spaces.", "type": "A", "language": "en"}
+{"word": "Search if there are unused packaged food items at the bottom of the fridge.", "type": "A", "language": "en"}
+{"word": "Activate the drone and capture footage counterclockwise around the target area.", "type": "B", "language": "en"}
+{"word": "打开卧室空调并设置为送风模式。", "type": "B", "language": "zh"}
+{"word": "将客厅的灯光亮度调整至柔光模式。", "type": "B", "language": "zh"}
+{"word": "启动扫地机器人清洁书房地板。", "type": "B", "language": "zh"}
+{"word": "控制无人机在湖面上方盘旋拍摄2分钟。", "type": "B", "language": "zh"}
+{"word": "打开热水器并设置温度为45摄氏度。", "type": "B", "language": "zh"}
+{"word": "启动智能音箱播放钢琴演奏音乐。", "type": "B", "language": "zh"}
+{"word": "将冰箱冷藏区的温度调节至3摄氏度。", "type": "B", "language": "zh"}
+{"word": "控制无人机镜头朝下拍摄目标区域。", "type": "B", "language": "zh"}
+{"word": "打开厨房电饭煲并启动煮饭程序。", "type": "B", "language": "zh"}
+{"word": "将电视音量调整至30%的水平。", "type": "B", "language": "zh"}
+{"word": "启动家庭影院并播放纪录片频道。", "type": "B", "language": "zh"}
+{"word": "调整卧室空调为22摄氏度的制冷模式。", "type": "B", "language": "zh"}
+{"word": "启动加湿器并调节湿度至45%。", "type": "B", "language": "zh"}
+{"word": "控制无人机跟随移动的目标车辆进行拍摄。", "type": "B", "language": "zh"}
+{"word": "打开窗帘至全开模式，让自然光进入。", "type": "B", "language": "zh"}
+{"word": "启动智能烤箱并设置时间为25分钟。", "type": "B", "language": "zh"}
+{"word": "将客厅电视切换至游戏主机模式。", "type": "B", "language": "zh"}
+{"word": "停止无人机飞行并返回指定降落点。", "type": "B", "language": "zh"}
+{"word": "控制书房灯光颜色调整为冷白光。", "type": "B", "language": "zh"}
+{"word": "为什么木星有如此多的卫星环绕？", "type": "D", "language": "zh"}
+{"word": "推荐几款可以帮助时间管理的高效App。", "type": "D", "language": "zh"}
+{"word": "为什么极地的气温差异如此显著？", "type": "D", "language": "zh"}
+{"word": "如何通过冥想缓解长期的工作压力？", "type": "D", "language": "zh"}
+{"word": "为什么某些湖泊会因为盐度过高而形成盐湖？", "type": "D", "language": "zh"}
+{"word": "推荐一本关于宇宙起源的畅销书。", "type": "D", "language": "zh"}
+{"word": "如何通过分步练习提升跑步速度？", "type": "D", "language": "zh"}
+{"word": "为什么深海中的生物多半会发光？", "type": "D", "language": "zh"}
+{"word": "如何设计一个适合中学生的时间表？", "type": "D", "language": "zh"}
+{"word": "为什么月球没有足够的引力形成大气层？", "type": "D", "language": "zh"}
+{"word": "推荐一些能提升专注力的心理训练课程。", "type": "D", "language": "zh"}
+{"word": "为什么北极冰层消融对全球影响重大？", "type": "D", "language": "zh"}
+{"word": "如何通过合理的计划在1个月内学会基础编程？", "type": "D", "language": "zh"}
+{"word": "为什么宇航员在太空中会失去肌肉质量？", "type": "D", "language": "zh"}
+{"word": "推荐一部适合周末放松的自然纪录片。", "type": "D", "language": "zh"}
+{"word": "如何通过人工智能优化个人财务管理？", "type": "D", "language": "zh"}
+{"word": "为什么某些动物能在沙漠中长期生存？", "type": "D", "language": "zh"}
+{"word": "推荐几款帮助入睡的助眠音乐或音频应用。", "type": "D", "language": "zh"}
+{"word": "为什么黑洞会形成“事件视界”？", "type": "D", "language": "zh"}
+{"word": "如何通过时间分块法提升日常效率？", "type": "D", "language": "zh"}
+{"word": "Turn on the bedroom air conditioner and set it to fan mode.", "type": "B", "language": "en"}
+{"word": "Adjust the living room lights to soft light mode.", "type": "B", "language": "en"}
+{"word": "Start the robot vacuum to clean the study room floor.", "type": "B", "language": "en"}
+{"word": "Control the drone to hover over the lake and record for 2 minutes.", "type": "B", "language": "en"}
+{"word": "Turn on the water heater and set the temperature to 45°C.", "type": "B", "language": "en"}
+{"word": "Activate the smart speaker to play piano music.", "type": "B", "language": "en"}
+{"word": "Set the refrigerator's cooling compartment temperature to 3°C.", "type": "B", "language": "en"}
+{"word": "Control the drone camera to point downward and capture the target area.", "type": "B", "language": "en"}
+{"word": "Turn on the rice cooker in the kitchen and start the cooking program.", "type": "B", "language": "en"}
+{"word": "Adjust the TV volume to 30%.", "type": "B", "language": "en"}
+{"word": "Activate the home theater and switch to the documentary channel.", "type": "B", "language": "en"}
+{"word": "Set the bedroom air conditioner to cooling mode at 22°C.", "type": "B", "language": "en"}
+{"word": "Turn on the humidifier and adjust the humidity to 45%.", "type": "B", "language": "en"}
+{"word": "Control the drone to follow and record a moving target vehicle.", "type": "B", "language": "en"}
+{"word": "Open the curtains fully to let in natural light.", "type": "B", "language": "en"}
+{"word": "Activate the smart oven and set the timer for 25 minutes.", "type": "B", "language": "en"}
+{"word": "Switch the living room TV to game console mode.", "type": "B", "language": "en"}
+{"word": "Stop the drone flight and return it to the designated landing point.", "type": "B", "language": "en"}
+{"word": "Adjust the study room light color to cool white.", "type": "B", "language": "en"}
+{"word": "Why does Jupiter have so many moons orbiting it?", "type": "D", "language": "en"}
+{"word": "Recommend a few efficient apps to help with time management.", "type": "D", "language": "en"}
+{"word": "Why are temperature differences so extreme in polar regions?", "type": "D", "language": "en"}
+{"word": "How can meditation alleviate long-term work stress?", "type": "D", "language": "en"}
+{"word": "Why do some lakes become salt lakes due to high salinity?", "type": "D", "language": "en"}
+{"word": "Recommend a bestselling book on the origin of the universe.", "type": "D", "language": "en"}
+{"word": "How to improve running speed through step-by-step practice?", "type": "D", "language": "en"}
+{"word": "Why do most deep-sea creatures emit light?", "type": "D", "language": "en"}
+{"word": "How to design a suitable schedule for middle school students?", "type": "D", "language": "en"}
+{"word": "Why doesn't the Moon have enough gravity to form an atmosphere?", "type": "D", "language": "en"}
+{"word": "Recommend some psychological training courses to enhance focus.", "type": "D", "language": "en"}
+{"word": "Why does Arctic ice melting have a significant global impact?", "type": "D", "language": "en"}
+{"word": "How to learn basic programming in one month with a proper plan?", "type": "D", "language": "en"}
+{"word": "Why do astronauts lose muscle mass in space?", "type": "D", "language": "en"}
+{"word": "Recommend a nature documentary for weekend relaxation.", "type": "D", "language": "en"}
+{"word": "How can artificial intelligence optimize personal financial management?", "type": "D", "language": "en"}
+{"word": "Why can certain animals survive long-term in the desert?", "type": "D", "language": "en"}
+{"word": "Recommend some sleep-aid music or audio apps to help with falling asleep.", "type": "D", "language": "en"}
+{"word": "Why does a black hole form an \"event horizon\"?", "type": "D", "language": "en"}
+{"word": "How to boost daily efficiency with time-blocking methods?", "type": "D", "language": "en"}

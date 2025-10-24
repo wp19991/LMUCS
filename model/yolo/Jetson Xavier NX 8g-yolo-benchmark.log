@@ -1,0 +1,119 @@
+yolo11n:
+
+yolo benchmark model=/home/drone/yolo/benchmark/yolo11n_best_9_label_new.pt data=/home/drone/yolo/benchmark/mydata.yaml imgsz=960 half=True device=0
+
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 347.2±113.7 MB/s, size: 39.2 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 595.8Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 12.8it/s 9.9s
+                   all        126        484      0.982      0.967      0.982       0.89
+Speed: 4.5ms preprocess, 57.8ms inference, 0.0ms loss, 3.4ms postprocess per image
+
+PyTorch: starting from '/home/drone/yolo/benchmark/yolo11n_best_9_label_new.pt' with input shape (1, 3, 960, 960) BCHW and output shape(s) (1, 13, 18900) (5.3 MB)
+
+TorchScript: starting export with torch 2.1.0a0+41361538.nv23.06...
+TorchScript: export success ✅ 4.9s, saved as '/home/drone/yolo/benchmark/yolo11n_best_9_label_new.torchscript' (10.5 MB)
+
+Export complete (5.1s)
+Results saved to /home/drone/yolo/benchmark
+Predict:         yolo predict task=detect model=/home/drone/yolo/benchmark/yolo11n_best_9_label_new.torchscript imgsz=960  
+Validate:        yolo val task=detect model=/home/drone/yolo/benchmark/yolo11n_best_9_label_new.torchscript imgsz=960 data=./data.yaml  
+Visualize:       https://netron.app
+Loading /home/drone/yolo/benchmark/yolo11n_best_9_label_new.torchscript for TorchScript inference...
+Loading /home/drone/yolo/benchmark/yolo11n_best_9_label_new.torchscript for TorchScript inference...
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 339.8±41.8 MB/s, size: 39.4 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 539.8Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 10.5it/s 12.0s
+                   all        126        484      0.983      0.975      0.987      0.885
+Speed: 6.0ms preprocess, 71.6ms inference, 0.1ms loss, 3.5ms postprocess per image
+
+
+yolo11n-lite_v1:
+yolo benchmark model=/home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.pt data=/home/drone/yolo/benchmark/mydata.yaml imgsz=960 half=True device=0
+
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 303.9±95.2 MB/s, size: 38.4 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 596.5Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 13.2it/s 9.6s
+                   all        126        484      0.981      0.939      0.978      0.837
+Speed: 4.5ms preprocess, 55.4ms inference, 0.1ms loss, 3.4ms postprocess per image
+
+PyTorch: starting from '/home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.pt' with input shape (1, 3, 960, 960) BCHW and output shape(s) (1, 13, 18900) (5.1 MB)
+
+TorchScript: starting export with torch 2.1.0a0+41361538.nv23.06...
+TorchScript: export success ✅ 4.5s, saved as '/home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.torchscript' (10.1 MB)
+
+Export complete (4.8s)
+Results saved to /home/drone/yolo/benchmark
+Predict:         yolo predict task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.torchscript imgsz=960  
+Validate:        yolo val task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.torchscript imgsz=960 data=./data.yaml  
+Visualize:       https://netron.app
+Loading /home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.torchscript for TorchScript inference...
+Loading /home/drone/yolo/benchmark/yolo11n-lite_best_9_label_new.torchscript for TorchScript inference...
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 328.8±41.9 MB/s, size: 40.2 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 628.4Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 10.9it/s 11.5s
+                   all        126        484      0.981      0.943      0.981      0.836
+Speed: 6.1ms preprocess, 68.2ms inference, 0.1ms loss, 3.6ms postprocess per image
+
+
+yolo11n-lite_v2:
+yolo benchmark model=/home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.pt data=/home/drone/yolo/benchmark/mydata.yaml imgsz=960 half=True device=0
+
+val: Fast image access ✅ (ping: 0.3±0.5 ms, read: 89.1±24.5 MB/s, size: 34.9 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 584.6Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 12.9it/s 9.7s
+                   all        126        484      0.988      0.941      0.978      0.841
+Speed: 5.1ms preprocess, 53.1ms inference, 0.1ms loss, 4.1ms postprocess per image
+
+PyTorch: starting from '/home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.pt' with input shape (1, 3, 960, 960) BCHW and output shape(s) (1, 13, 18900) (4.1 MB)
+
+TorchScript: starting export with torch 2.1.0a0+41361538.nv23.06...
+TorchScript: export success ✅ 4.6s, saved as '/home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.torchscript' (8.2 MB)
+
+Export complete (4.8s)
+Results saved to /home/drone/yolo/benchmark
+Predict:         yolo predict task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.torchscript imgsz=960  
+Validate:        yolo val task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.torchscript imgsz=960 data=./data.yaml  
+Visualize:       https://netron.app
+Loading /home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.torchscript for TorchScript inference...
+Loading /home/drone/yolo/benchmark/yolo11n-lite_v2_best_9_label_new.torchscript for TorchScript inference...
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 304.4±60.1 MB/s, size: 39.1 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 498.1Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 11.2it/s 11.3s
+                   all        126        484      0.975      0.948       0.98       0.84
+Speed: 6.0ms preprocess, 65.1ms inference, 0.1ms loss, 4.0ms postprocess per image
+
+
+yolo11n-lite_v3:
+yolo benchmark model=/home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.pt data=/home/drone/yolo/benchmark/mydata.yaml imgsz=960 half=True device=0
+
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 284.3±115.4 MB/s, size: 34.7 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 587.9Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 14.0it/s 9.0s
+                   all        126        484      0.983       0.94      0.976      0.841
+Speed: 4.6ms preprocess, 50.7ms inference, 0.1ms loss, 3.5ms postprocess per image
+
+PyTorch: starting from '/home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.pt' with input shape (1, 3, 960, 960) BCHW and output shape(s) (1, 13, 18900) (3.5 MB)
+
+TorchScript: starting export with torch 2.1.0a0+41361538.nv23.06...
+TorchScript: export success ✅ 3.7s, saved as '/home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.torchscript' (7.0 MB)
+
+Export complete (3.9s)
+Results saved to /home/drone/yolo/benchmark
+Predict:         yolo predict task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.torchscript imgsz=960  
+Validate:        yolo val task=detect model=/home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.torchscript imgsz=960 data=./data.yaml  
+Visualize:       https://netron.app
+Loading /home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.torchscript for TorchScript inference...
+Loading /home/drone/yolo/benchmark/yolo11n-lite_v3_best_9_label_new.torchscript for TorchScript inference...
+val: Fast image access ✅ (ping: 0.0±0.0 ms, read: 308.2±77.8 MB/s, size: 35.1 KB)
+val: Scanning /home/drone/yolo/benchmark/valid/labels.cache... 126 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 126/126 537.1Kit/s 0.0s
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 126/126 11.8it/s 10.7s
+                   all        126        484      0.986      0.933      0.973      0.839
+Speed: 6.1ms preprocess, 62.1ms inference, 0.1ms loss, 3.6ms postprocess per image
+
+
+
+
+
+
+
+

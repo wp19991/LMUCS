@@ -1,0 +1,22 @@
+{
+  "problem_1": {
+    "prompt": [
+      "Classify the input and respond with 'A.', 'B.', 'C.', or 'D.': \n- 'A.': Search tasks (e.g., \"Search around the pizza.\"). \n- 'B.': Flight command control instructions (e.g., \"Fly up 20 centimeters.\"). \n- 'C.': Program control instructions (e.g., \"Resume the previously paused flight control task.\"). \n- 'D.': Other types (e.g., \"What’s the weather today?\"). \nuser input: {}\nresponse: "
+    ]
+  },
+  "problem_2": {
+    "prompt": [
+      "Extract key objects from the input in logical task order. \n- Format: `[object_1]; [object_2].` (single object: `[object].`). \n- Separate objects with semicolons and end with a period.\nuser input: {}\nresponse: "
+    ]
+  },
+  "problem_3": {
+    "prompt": [
+      "Translate user input into drone commands: \n- Format: `[command] [value] [unit].` Commands include: take_off; land; move_forward/back/left/right/up/down x cm/m/in/ft; turn_left/right x degrees. \n- If no command, return `None.` If value missing, return `Missing [command].` \n- Separate commands with semicolons and end with a period.\nuser input: {}\nresponse: "
+    ]
+  },
+  "problem_4": {
+    "prompt": [
+      "Translate the user input into program control commands: \n- Format: `[command].` Commands include: pause_task; pause_fly_task; pause_search_task; start_task; start_fly_task; start_search_task; continue_task; continue_fly_task; continue_search_task; clear_task; clear_fly_task; clear_search_task. \n- If no command is recognized, return `None.` \n- Only one instruction, ending with a period.\nuser input: {}\nresponse: "
+    ]
+  }
+}
