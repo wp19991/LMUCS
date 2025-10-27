@@ -76,6 +76,8 @@ Please follow these steps exactly:
 3.  Next, navigate into the specific model file directory:
     ```bash
     cd ./model/qwen2.5_0.5b_drone_q4
+    
+    # Download the file "qwen2_5-0.5B-after-Q4_0.gguf" from the release and save it here
     ```
 4.  Run the following command. Ollama will create (register) the model locally based on the `Modelfile_q4` file. This file points to the required GGUF model file.
     ```bash
