@@ -68,7 +68,7 @@ def tello_get_img(tello: Tello | MockTello, frame_read: BackgroundFrameRead | Fr
     else:
         t_img_bgr = cv2.cvtColor(t_img, cv2.COLOR_RGB2BGR)
     if save_path == '':
-        save_path = os.path.join(os.path.expanduser("~"), "Desktop")
+        save_path = os.path.join(os.path.expanduser("~"), "llm_drone_data")
     file_save_path = __save_img_into_disk(t_img_bgr, save_path)
     return file_save_path
 
