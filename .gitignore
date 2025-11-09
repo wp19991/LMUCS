@@ -1,2 +1,7 @@
 /.idea/
 /__pycache__/
+*.pt
+*.safetensors
+/app/log/*.json
+/app/data/*.jpg
+*.gguf

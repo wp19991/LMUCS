@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/qwen.ico</file>
+    <file>icon/关于.ico</file>
+    <file>icon/复制.ico</file>
+    <file>icon/自动化.ico</file>
+    <file>icon/参考答案.ico</file>
+    <file>icon/上一首-01.ico</file>
+    <file>icon/下一首-01.ico</file>
+    <file>icon/json.ico</file>
+    <file>icon/搜索.ico</file>
+  </qresource>
+  <qresource prefix="png">
+    <file>png/v_depth.jpg</file>
+    <file>png/program.png</file>
+    <file>png/v_p.jpg</file>
+    <file>png/v.jpg</file>
+    <file>png/near_far_p.png</file>
+  </qresource>
+</RCC>

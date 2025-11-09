@@ -85,6 +85,15 @@ Please follow these steps exactly:
     ```
     *(You only need to do this step the very first time. Ollama will remember the model afterward.)*
 
+5. Download midas model and yolov11 model.
+    ```bash
+    cd ./app/model
+    # Download the file "midas_model_torchscript.pt" from the release and save it here
+    # Download the file "yolo11n_best_9_label_new.pt" from the release and save it here
+    ```
+
+6. 如果你想要运行整个无人机系统，请访问`./app`目录下的`readme.md`文件
+
 #### Step 3: Run the Model and Start Chatting
 
 1.  In the **same terminal from Step 2** (after the model creation is successful), run the following command to start the model:
