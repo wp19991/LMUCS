@@ -1,12 +1,8 @@
 <RCC>
   <qresource prefix="icon">
-    <file>icon/qwen.ico</file>
     <file>icon/关于.ico</file>
     <file>icon/复制.ico</file>
     <file>icon/自动化.ico</file>
-    <file>icon/参考答案.ico</file>
-    <file>icon/上一首-01.ico</file>
-    <file>icon/下一首-01.ico</file>
     <file>icon/json.ico</file>
     <file>icon/搜索.ico</file>
   </qresource>
