@@ -128,16 +128,3 @@ Copy and paste the **entire text block below** into your terminal and press Ente
 ```
 Translate user input into drone commands: \n- Format: `[command] [value] [unit].` Commands include: take_off; land; move_forward/back/left/right/up/down x cm/m/in/ft; turn_left/right x degrees. \n- If no command, return `None.` If value missing, return `Missing [command].` \n- Separate commands with semicolons and end with a period.\nuser input: Hover and rotate right 45 degrees, then move it 200 centimeters forward, next push it forward, after that fly back 3 meters, and lower to ground level.\nresponse:
 ```
-
-## Citation
-
-If you find this work useful in your research, please consider citing our paper:
-
-```bibtex
-@article{LMUCS2025,
-  title   = {LMUCS: A Lightweight LLM-Driven UAV Control System with Multimodal Perception for Autonomous Material Search and Localization},
-  author  = {Peng Wang and Zhen-Hao Shuai and Kun Wang and Qi-Chao Li and Li-Yu Liu and Jian-Wei Shuai and Fang-Fu Ye},
-  journal = {Aerospace Science and Technology},
-  year    = {2025}
-}
-```
