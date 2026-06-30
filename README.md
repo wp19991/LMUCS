@@ -128,3 +128,22 @@ Copy and paste the **entire text block below** into your terminal and press Ente
 ```
 Translate user input into drone commands: \n- Format: `[command] [value] [unit].` Commands include: take_off; land; move_forward/back/left/right/up/down x cm/m/in/ft; turn_left/right x degrees. \n- If no command, return `None.` If value missing, return `Missing [command].` \n- Separate commands with semicolons and end with a period.\nuser input: Hover and rotate right 45 degrees, then move it 200 centimeters forward, next push it forward, after that fly back 3 meters, and lower to ground level.\nresponse:
 ```
+
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{LMUCS2026,
+title = {LMUCS: Lightweight LLM-driven UAV control system with multimodal perception for autonomous material search and localization},
+journal = {Aerospace Science and Technology},
+volume = {177},
+pages = {112949},
+year = {2026},
+issn = {1270-9638},
+doi = {https://doi.org/10.1016/j.ast.2026.112949},
+url = {https://www.sciencedirect.com/science/article/pii/S1270963826013271},
+author = {Peng Wang and Zhenhao Shuai and Kun Wang and Qichao Li and Liyu Liu and Fangfu Ye and Jianwei Shuai},
+keywords = {UAV, Autonomous material search and localization, Large language model, Prompt engineering, LoRA fine-tuning, YOLOv11, Depth estimation, Computer vision}
+}
+```
